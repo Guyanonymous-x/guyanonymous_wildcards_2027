@@ -1,0 +1,2 @@
+a handwritten price board reading "__name_price__"
+a painted wooden stall sign reading "__name_grocery__"

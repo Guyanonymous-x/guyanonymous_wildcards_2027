@@ -1,0 +1,5 @@
+Morning, curtains opened, radio on
+Afternoon, fire on, nap in the chair
+Evening, curtains drawn early, lamp on
+Night, hall light left on
+__loc_time_of_day__

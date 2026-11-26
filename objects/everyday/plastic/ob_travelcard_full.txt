@@ -1,0 +1,1 @@
+Made of __ob_travelcard_material__ __ob_travelcard_era__, __ob_travelcard_wear__, with __ob_travelcard_detail__, __ob_travelcard_text__, and in __ob_colour__, __ob_travelcard_type__

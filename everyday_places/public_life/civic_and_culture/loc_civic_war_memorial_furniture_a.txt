@@ -1,0 +1,2 @@
+benches nearby
+a railing

@@ -1,0 +1,1 @@
+__loc_outdoor_hay_meadow_clean__ __loc_outdoor_hay_meadow_region_look__. The loose items include __loc_outdoor_hay_meadow_items__.

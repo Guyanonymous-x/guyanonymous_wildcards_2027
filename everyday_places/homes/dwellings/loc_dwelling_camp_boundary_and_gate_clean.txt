@@ -1,0 +1,1 @@
+The location is a camp boundary and gate. Its materials are __loc_dwelling_camp_boundary_and_gate_materials__. __loc_dwelling_camp_boundary_and_gate_light__. __loc_dwelling_camp_boundary_and_gate_signature__. On view is __loc_dwelling_camp_boundary_and_gate_sign__.

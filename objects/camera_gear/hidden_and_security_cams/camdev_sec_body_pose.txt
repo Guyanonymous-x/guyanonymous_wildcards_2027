@@ -1,0 +1,4 @@
+The person stands facing the guard with both hands raised, palms out
+The person sits on a bench, looking up at the guard
+The person walks away from the guard, glancing back
+The person hands the guard an ID card with a small photo, "VISITOR" printed in red block letters across the top and the name "__name_person__" in black below it

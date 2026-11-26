@@ -1,0 +1,3 @@
+a modern smart meter
+an older dial meter
+a prepayment meter with a card slot

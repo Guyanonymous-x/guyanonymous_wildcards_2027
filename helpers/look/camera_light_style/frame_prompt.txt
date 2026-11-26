@@ -1,0 +1,5 @@
+__frame_person_prompt__
+__frame_group_prompt__
+__frame_outfit_prompt__
+__frame_accessory_prompt__
+__frame_landscape_prompt__

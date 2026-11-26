@@ -1,0 +1,1 @@
+The location is a bridge maintenance gantry. Its materials are __loc_transport_bridge_maintenance_gantry_materials__. __loc_transport_bridge_maintenance_gantry_light__. __loc_transport_bridge_maintenance_gantry_signature__.

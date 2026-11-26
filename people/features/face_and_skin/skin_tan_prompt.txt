@@ -1,0 +1,2 @@
+__skin_tan_f_prompt__
+__skin_tan_m_prompt__

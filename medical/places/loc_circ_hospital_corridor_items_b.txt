@@ -1,0 +1,3 @@
+linen trolley
+charts
+signage arrows reading "__loc_health_word__"

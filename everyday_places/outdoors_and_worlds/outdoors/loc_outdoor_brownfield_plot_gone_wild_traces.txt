@@ -1,0 +1,8 @@
+foundation walls
+a doorstep
+a floor tile patch
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__ on the surviving walls
+a desire line across the plot
+a fire site
+a pallet seat
+a hole cut in the fence

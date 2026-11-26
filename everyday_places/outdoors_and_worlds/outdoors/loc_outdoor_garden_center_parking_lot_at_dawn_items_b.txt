@@ -1,0 +1,2 @@
+a dropped plant label reading "__loc_text_plant__"
+a delivery note on a pallet

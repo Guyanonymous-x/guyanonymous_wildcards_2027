@@ -1,0 +1,7 @@
+a cable
+a refuge sign reading "Refuge"
+a torch
+a hard hat
+a survey marker
+water dripping
+a possession sign reading "__loc_text_caution__" during engineering work

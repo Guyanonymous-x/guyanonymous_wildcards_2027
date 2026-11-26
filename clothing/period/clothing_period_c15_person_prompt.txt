@@ -1,0 +1,9 @@
+The picture contains one person, Nomvula. Nomvula is __f_create_random_woman_short_named__ Nomvula wears __clothing_period_c15_prompt__.
+The picture contains one person, Nomvula. Nomvula is __f_create_random_woman_short_named__ Nomvula wears __clothing_period_c15_mix_prompt__.
+The picture contains one person, Nomvula. Nomvula is __f_create_random_woman_short_named__ Nomvula wears __clothing_period_c15_garment__, with __clothing_period_c15_head__ on her head and __clothing_period_c15_foot__ on her feet, and __clothing_period_c15_jewel__. Nomvula carries __clothing_period_c15_bag__. Nomvula's clothes are in the fashion of the 15th century CE.
+The picture contains one person, Kwesi. Kwesi is __m_create_random_man_short_named__ Kwesi wears __clothing_period_c15_prompt__.
+The picture contains one person, Kwesi. Kwesi is __m_create_random_man_short_named__ Kwesi wears __clothing_period_c15_mix_prompt__.
+The picture contains one person, Kwesi. Kwesi is __m_create_random_man_short_named__ Kwesi wears __clothing_period_c15_garment__, with __clothing_period_c15_head__ on his head and __clothing_period_c15_foot__ on his feet, and __clothing_period_c15_jewel__. Kwesi carries __clothing_period_c15_bag__. Kwesi's clothes are in the fashion of the 15th century CE.
+The picture contains one person, Ankhbayar. Ankhbayar is __any_create_random_person_short_named__ Ankhbayar wears __clothing_period_c15_prompt__.
+The picture contains one person, Ankhbayar. Ankhbayar is __any_create_random_person_short_named__ Ankhbayar wears __clothing_period_c15_mix_prompt__.
+The picture contains one person, Ankhbayar. Ankhbayar is __any_create_random_person_short_named__ Ankhbayar wears __clothing_period_c15_garment__, with __clothing_period_c15_head__ on Ankhbayar's head and __clothing_period_c15_foot__ on Ankhbayar's feet, and __clothing_period_c15_jewel__. Ankhbayar carries __clothing_period_c15_bag__. Ankhbayar's clothes are in the fashion of the 15th century CE.

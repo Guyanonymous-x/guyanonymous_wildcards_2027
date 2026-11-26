@@ -1,0 +1,3 @@
+Day, trades working, doors open, dust
+Evening, empty, tools packed to one side, takeaway on a box
+__loc_time_of_day__

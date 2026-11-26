@@ -1,0 +1,3 @@
+The generators run to support the light, so the room's working period is nocturnal in the manned era
+Automation has removed the pattern entirely
+__loc_time_of_day__

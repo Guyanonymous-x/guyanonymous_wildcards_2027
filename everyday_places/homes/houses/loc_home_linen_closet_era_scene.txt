@@ -1,0 +1,1 @@
+__loc_home_linen_closet_clean__ The location is __loc_home_linen_closet_condition__. The loose items include __loc_home_linen_closet_items__.

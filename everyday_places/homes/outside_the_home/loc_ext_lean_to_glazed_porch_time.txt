@@ -1,0 +1,5 @@
+Morning, condensation and cold
+Midday, hot, vents open, blinds or shading needed
+Evening, the house door open and warmth drawn inside
+Winter, used as an unheated buffer and store
+__loc_time_of_day__

@@ -1,0 +1,1 @@
+The location is a distillery. Its materials are __loc_food_distillery_materials__, and the palette is __loc_food_distillery_palette__. __loc_food_distillery_light__. __loc_food_distillery_signature__.

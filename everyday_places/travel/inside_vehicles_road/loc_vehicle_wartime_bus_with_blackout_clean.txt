@@ -1,0 +1,1 @@
+The location is a wartime bus with blackout. Its materials are __loc_vehicle_wartime_bus_with_blackout_materials__. __loc_vehicle_wartime_bus_with_blackout_light__. __loc_vehicle_wartime_bus_with_blackout_signature__.

@@ -1,0 +1,4 @@
+Early morning, lights on before dawn, garage door shut
+Summer, door rolled up to the driveway, daylight flooding in
+Evening, artificial light, fan running
+__loc_time_of_day__

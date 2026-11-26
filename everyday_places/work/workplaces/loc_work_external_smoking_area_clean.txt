@@ -1,0 +1,1 @@
+The location is an external smoking area. Its materials are __loc_work_external_smoking_area_materials__. __loc_work_external_smoking_area_light__. __loc_work_external_smoking_area_signature__. On view is __loc_work_external_smoking_area_sign__.

@@ -1,0 +1,1 @@
+The location is a plant room, commercial. Its materials are __loc_work_plant_room_commercial_materials__. __loc_work_plant_room_commercial_light__. __loc_work_plant_room_commercial_signature__. On view is __loc_work_plant_room_commercial_sign__.

@@ -1,0 +1,1 @@
+The location is an inn common room. Its materials are __loc_food_inn_common_room_materials__. __loc_food_inn_common_room_light__. __loc_food_inn_common_room_signature__.

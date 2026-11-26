@@ -1,0 +1,4 @@
+Trailers arrive in the evening
+The sort runs through the night
+Vehicles leave before dawn for delivery
+__loc_time_of_day__

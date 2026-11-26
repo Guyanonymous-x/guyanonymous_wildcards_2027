@@ -1,0 +1,4 @@
+Day, packing, doors open, people moving through
+The final evening, takeaway on a box, one lamp, a mattress on the floor
+Dawn of the move, everything stacked in the hall
+__loc_time_of_day__

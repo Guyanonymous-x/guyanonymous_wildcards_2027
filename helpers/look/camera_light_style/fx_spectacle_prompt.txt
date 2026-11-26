@@ -1,0 +1,5 @@
+__fx_transformation_spectacle_prompt__
+__fx_sacred_light_spectacle_prompt__
+__fx_scientific_spectacle_prompt__
+__fx_tricks_spectacle_prompt__
+__fx_optical_spectacle_prompt__

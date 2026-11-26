@@ -1,0 +1,1 @@
+The location is a cupola. Its materials are __loc_vehicle_cupola_materials__. __loc_vehicle_cupola_light__. __loc_vehicle_cupola_signature__.

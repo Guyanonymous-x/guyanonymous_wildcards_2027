@@ -1,0 +1,5 @@
+The early morning, with the fleet going out and nobody in the lane
+The late evening and the small hours, when forty vehicles pass through in sequence
+The fuel delivery, which stops everything
+The daytime, when the lane stands empty and wet
+__loc_time_of_day__

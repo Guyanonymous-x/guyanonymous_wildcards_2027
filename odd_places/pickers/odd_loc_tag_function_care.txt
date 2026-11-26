@@ -1,0 +1,5 @@
+__loc_odd_apothecary_scene__
+__loc_odd_lazaretto_quarantine_ward_scene__
+__loc_odd_quarantine_station_scene__
+__loc_odd_sanatorium_veranda_scene__
+__loc_odd_asylum_airing_court_scene__

@@ -1,0 +1,2 @@
+The time lock keeps the vault shut outside banking hours
+__loc_time_of_day__

@@ -1,0 +1,1 @@
+The location is a bedding pitch under a bridge. Its materials are __loc_dwelling_bedding_pitch_under_a_bridge_materials__. __loc_dwelling_bedding_pitch_under_a_bridge_light__. __loc_dwelling_bedding_pitch_under_a_bridge_signature__.

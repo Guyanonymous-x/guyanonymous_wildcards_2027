@@ -1,0 +1,2 @@
+a chest pressed flat under __m_trans_chest_binder__
+a flat chest with __m_trans_chest_scars__

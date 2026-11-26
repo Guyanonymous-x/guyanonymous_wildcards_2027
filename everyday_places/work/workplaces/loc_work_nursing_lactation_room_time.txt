@@ -1,0 +1,4 @@
+Used at predictable intervals through the working day
+Booked in blocks
+Otherwise locked and empty
+__loc_time_of_day__

@@ -1,0 +1,5 @@
+retractable backboards
+nets
+a ball cage
+a cricket net on a track
+a scoreboard reading "__text_score__" __text_look_dotmatrix__, the rest of the board dark

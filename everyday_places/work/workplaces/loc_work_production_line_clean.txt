@@ -1,0 +1,1 @@
+The location is a production line. Its materials are __loc_work_production_line_materials__. __loc_work_production_line_light__. __loc_work_production_line_signature__.

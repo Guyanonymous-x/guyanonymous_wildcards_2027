@@ -1,0 +1,5 @@
+A cinema marquee reading "NOW SHOWING" on the first line and "__name_movie__" on the second line.
+A film poster with the title "__name_movie__" in large letters and "__name_tagline__" beneath it.
+A cinema ticket reading "__name_movie__" on the first line and "__name_price__" on the second line.
+A video cassette box with the title "__name_movie__" on the spine.
+A television screen showing a title card that reads "__name_movie__".

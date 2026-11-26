@@ -1,0 +1,6 @@
+A morning of diagnosis and starting long jobs
+A day in which the actual work is interleaved with waiting
+An evening with four machines running unattended, which is the room's most characteristic state and is why the lights stay on
+A business job done overnight because the office needs the machines at nine
+A Monday after a weekend of failures
+__loc_time_of_day__

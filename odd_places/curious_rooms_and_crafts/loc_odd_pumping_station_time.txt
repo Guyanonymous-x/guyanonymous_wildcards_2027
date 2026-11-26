@@ -1,0 +1,3 @@
+Continuous operation historically
+Preserved stations run on open days, which is when the engine moves
+__loc_time_of_day__

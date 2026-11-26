@@ -1,0 +1,1 @@
+Made of __ob_placard_material__ __ob_placard_era__, __ob_placard_wear__, with __ob_placard_detail__, __ob_placard_text__, and in __ob_colour__, __ob_placard_type__

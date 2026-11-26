@@ -1,0 +1,9 @@
+The picture contains one person, Sisa. Sisa is __f_create_random_woman_short_named__ Sisa wears __clothing_period_c07_prompt__.
+The picture contains one person, Sisa. Sisa is __f_create_random_woman_short_named__ Sisa wears __clothing_period_c07_mix_prompt__.
+The picture contains one person, Sisa. Sisa is __f_create_random_woman_short_named__ Sisa wears __clothing_period_c07_garment__, with __clothing_period_c07_head__ on her head and __clothing_period_c07_foot__ on her feet, and __clothing_period_c07_jewel__. Sisa carries __clothing_period_c07_bag__. Sisa's clothes are in the fashion of the 7th century CE.
+The picture contains one person, Inti. Inti is __m_create_random_man_short_named__ Inti wears __clothing_period_c07_prompt__.
+The picture contains one person, Inti. Inti is __m_create_random_man_short_named__ Inti wears __clothing_period_c07_mix_prompt__.
+The picture contains one person, Inti. Inti is __m_create_random_man_short_named__ Inti wears __clothing_period_c07_garment__, with __clothing_period_c07_head__ on his head and __clothing_period_c07_foot__ on his feet, and __clothing_period_c07_jewel__. Inti carries __clothing_period_c07_bag__. Inti's clothes are in the fashion of the 7th century CE.
+The picture contains one person, Nour. Nour is __any_create_random_person_short_named__ Nour wears __clothing_period_c07_prompt__.
+The picture contains one person, Nour. Nour is __any_create_random_person_short_named__ Nour wears __clothing_period_c07_mix_prompt__.
+The picture contains one person, Nour. Nour is __any_create_random_person_short_named__ Nour wears __clothing_period_c07_garment__, with __clothing_period_c07_head__ on Nour's head and __clothing_period_c07_foot__ on Nour's feet, and __clothing_period_c07_jewel__. Nour carries __clothing_period_c07_bag__. Nour's clothes are in the fashion of the 7th century CE.

@@ -1,0 +1,3 @@
+Deliveries arrive before opening and the room is at its fullest then
+It empties onto the shop floor through the day
+__loc_time_of_day__

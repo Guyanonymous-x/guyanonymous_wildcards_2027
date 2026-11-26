@@ -1,0 +1,1 @@
+The location is a breakfast nook. Its materials are __loc_home_breakfast_nook_materials__. __loc_home_breakfast_nook_light__. __loc_home_breakfast_nook_signature__.

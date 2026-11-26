@@ -1,0 +1,5 @@
+Dawn, range lit, kettle on, boots wet by the door
+Midday, table cleared, laundry on the airer
+Evening, table laid, lamps on, curtains closed
+Night, range banked, one lamp, cat asleep
+__loc_time_of_day__

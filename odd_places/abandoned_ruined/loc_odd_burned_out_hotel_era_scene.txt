@@ -1,0 +1,1 @@
+__loc_odd_burned_out_hotel_clean__ The location is __loc_odd_burned_out_hotel_condition__. The loose items include __loc_odd_burned_out_hotel_items__.

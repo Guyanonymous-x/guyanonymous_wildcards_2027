@@ -1,0 +1,4 @@
+tiled tunnel walls with curved ceiling
+directional signage reading "__loc_circ_word__"
+handrails on ramps
+emergency lighting

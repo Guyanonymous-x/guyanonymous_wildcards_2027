@@ -1,0 +1,6 @@
+Mid-morning, the tea trolley, the newspapers, the television on with nobody watching it
+After lunch, the quietest hour, most chairs occupied and asleep
+Mid-afternoon, visitors, an activity, the hairdresser
+Evening, the television louder, fewer chairs occupied
+Overnight, empty with one lamp on and the chairs pushed back for cleaning
+__loc_time_of_day__

@@ -1,0 +1,5 @@
+Morning, post on the mat, the outer door opened and shut
+Evening, light on for someone's return
+Winter, wet boots and coats
+Summer, outer door propped
+__loc_time_of_day__

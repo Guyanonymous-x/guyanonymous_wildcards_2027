@@ -1,0 +1,6 @@
+__adult_l1_myth_prompt__
+__adult_l2_myth_prompt__
+__adult_l3_myth_prompt__
+__adult_l4_myth_prompt__
+__adult_l5_myth_prompt__
+__adult_l6_myth_prompt__

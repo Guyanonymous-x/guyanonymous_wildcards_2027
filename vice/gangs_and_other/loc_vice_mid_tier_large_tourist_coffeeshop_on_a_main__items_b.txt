@@ -1,0 +1,8 @@
+a doorman on a stool checking identification
+a glass-fronted service counter at the far end with a numbered ticket system with a screen reading "NOW SERVING 47" __text_look_screen__ and a menu board above it reading "__text_price_line__" __text_look_backlit__ in three languages
+bar stools along a window shelf
+juice and milkshakes with a full espresso machine
+a vaporizer station
+two lavatories with an attendant's cleaning schedule on the door
+a sign reading "__loc_text_notice__" in four languages about quantity limits
+a tested alarm panel

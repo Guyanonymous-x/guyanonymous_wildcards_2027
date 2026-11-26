@@ -1,0 +1,1 @@
+Made of __ob_belt_material__ __ob_belt_era__, __ob_belt_wear__, with __ob_belt_detail__, and in __ob_colour__, __ob_belt_type__

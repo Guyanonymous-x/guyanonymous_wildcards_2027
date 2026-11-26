@@ -1,0 +1,1 @@
+The location is a signal and telecoms workshop. Its materials are __loc_depot_signal_and_telecoms_workshop_materials__. __loc_depot_signal_and_telecoms_workshop_light__. __loc_depot_signal_and_telecoms_workshop_signature__.

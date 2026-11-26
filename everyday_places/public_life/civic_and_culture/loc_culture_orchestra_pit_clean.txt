@@ -1,0 +1,1 @@
+The location is an orchestra pit. Its materials are __loc_culture_orchestra_pit_materials__. __loc_culture_orchestra_pit_light__. __loc_culture_orchestra_pit_signature__.

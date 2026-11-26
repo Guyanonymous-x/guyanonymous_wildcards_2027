@@ -1,0 +1,1 @@
+Made of __ob_lathe_material__ __ob_lathe_era__, __ob_lathe_wear__, with __ob_lathe_detail__, and in __ob_colour__, __ob_lathe_type__

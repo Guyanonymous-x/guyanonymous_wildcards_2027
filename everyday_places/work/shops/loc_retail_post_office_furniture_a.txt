@@ -1,0 +1,5 @@
+a service counter with positions
+a franking machine
+sorting shelves
+queue barriers
+a self-service kiosk

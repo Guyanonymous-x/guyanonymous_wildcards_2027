@@ -1,0 +1,5 @@
+The plant's shift pattern, a day of planned work, thermographic surveys and panel inspections
+A night breakdown where a motor has failed and the decision is repair or replace, taken at two in the morning with production waiting
+A shutdown weekend of panel work with the supply off, which is the only time much of this work is possible
+The Monday restart, when everything that was isolated is energized and the weak points announce themselves
+__loc_time_of_day__

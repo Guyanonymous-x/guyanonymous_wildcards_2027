@@ -1,0 +1,2 @@
+__loc_dwelling_transhumance_summer_hut_scene__
+__loc_secret_cockfighting_pit_scene__

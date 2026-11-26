@@ -1,0 +1,2 @@
+Entirely daylight-dependent
+Most grass strips have no lighting at all, so operations end at dusk absolutely

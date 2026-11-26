@@ -1,0 +1,5 @@
+"__name_product_brand__"
+"__name_company__"
+"__name_brand_upper__"
+"__name_product__"
+"__name_brand_invented__"

@@ -1,0 +1,1 @@
+The location is a special school classroom with a hoist and a changing room. Its materials are __loc_edu_special_school_classroom_with_a_hoist_and_a__materials__. __loc_edu_special_school_classroom_with_a_hoist_and_a__light__. __loc_edu_special_school_classroom_with_a_hoist_and_a__signature__.

@@ -1,0 +1,3 @@
+open sides or glazed infill
+drainage along one edge
+signage reading "__name_surname__ Building" at each end

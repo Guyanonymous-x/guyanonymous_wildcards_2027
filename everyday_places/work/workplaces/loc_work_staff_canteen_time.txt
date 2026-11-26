@@ -1,0 +1,4 @@
+Breakfast service
+A brief and intense lunch rush
+The servery shuttered and the room used for meetings in the afternoon; then cleaned and stacked
+__loc_time_of_day__

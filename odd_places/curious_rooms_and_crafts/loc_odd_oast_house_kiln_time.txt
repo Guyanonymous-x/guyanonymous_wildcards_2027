@@ -1,0 +1,2 @@
+The kiln runs continuously for a few weeks a year and stands empty for the rest
+__loc_time_of_day__

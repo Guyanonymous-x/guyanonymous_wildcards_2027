@@ -1,0 +1,7 @@
+seed packets printed "CARROT" and "BASIL" __text_look_print__
+fertilizer
+plant labels reading "__loc_text_plant__"
+gloves
+pruners
+bird feeders
+a trolley of reduced plants

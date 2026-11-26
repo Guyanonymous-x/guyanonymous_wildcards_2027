@@ -1,0 +1,5 @@
+barrels as tables
+wine racks
+stools
+patio seating
+POS

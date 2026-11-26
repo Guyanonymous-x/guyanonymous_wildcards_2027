@@ -1,0 +1,1 @@
+__condition_vehicle_prompt__

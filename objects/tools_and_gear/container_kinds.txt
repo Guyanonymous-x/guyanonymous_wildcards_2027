@@ -1,0 +1,28 @@
+biscuit tin
+tea caddy
+sweet tin
+cocoa tin
+tobacco tin
+sardine tin
+paint can
+oil can
+spice tin
+mint tin
+cigar box
+matchbox printed "__name_brand_upper__" in small print
+glass jar
+glass bottle
+bottle with embossed glass
+cardboard carton
+cylinder canister
+squeezable tube
+pill bottle labeled "__name_brand_upper__" in small black print on a white label
+food can
+drinks can
+milk bottle
+enamel storage tin
+plastic tub
+cardboard box with window
+wooden crate
+burlap sack
+paper bag

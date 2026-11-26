@@ -1,0 +1,3 @@
+Injury, __body_wound_minor__
+Injury, __body_wound_moderate__
+Dressing, __acc_medwrap_prompt__

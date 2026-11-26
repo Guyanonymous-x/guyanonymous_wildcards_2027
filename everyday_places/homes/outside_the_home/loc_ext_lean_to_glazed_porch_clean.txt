@@ -1,0 +1,1 @@
+The location is a lean-to / glazed porch. Its materials are __loc_ext_lean_to_glazed_porch_materials__. __loc_ext_lean_to_glazed_porch_light__. __loc_ext_lean_to_glazed_porch_signature__.

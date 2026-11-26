@@ -1,0 +1,149 @@
+underweight with a slight, thin frame and no distinguishing features.
+lean with a slim, healthy build and no distinguishing features.
+obese with a very large, broad, thick-set muscular build, a thick neck, wide shoulders, huge thighs, and a heavy chest and waist.
+average weight with a typical, healthy build and no distinguishing features.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, and darkened velvety skin on the neck and armpits.
+very underweight with a very thin, frail frame, stooped posture, thin arms and legs, and loose, wrinkled skin.
+average weight with a balanced, proportionate build, moderate muscle tone, and an even waist and hips.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, and fatty lumps on the trunk, upper arms and thighs.
+average weight with a typical build and no obvious signs reading "__text_sign_english__" in __sign_lettering__.
+extremely underweight with a gaunt, thin frame, sunken cheeks, thin limbs, and a hollow look.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, extra facial and body hair, and acne.
+lean with a slim, slender build, a narrow waist, and little body fat.
+average weight with an athletic, toned build, broad shoulders, defined muscles, and a trim waist.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, extra facial and body hair, and acne.
+very underweight with a thin, drawn frame, sunken cheeks and temples, thin limbs, and loose thin skin.
+underweight with a slight, thin frame, narrow shoulders, visible collarbones, and thin limbs.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs.
+slightly overweight with a broad, large-boned frame, wide shoulders and hips, and a sturdy, solid build.
+average weight with a balanced, typical build and even proportions.
+underweight with a thin, delicate frame, thin limbs, and a slightly bloated belly.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, a rounder face, and weight concentrated around the belly.
+overweight with a broad, muscular, thick-set build, a thick neck, wide shoulders, thick arms and thighs, and a solid chest and waist.
+slightly overweight with a sturdy build, a slightly soft midsection, and no distinguishing features.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, symmetric lumpy fat masses around the neck, shoulders and upper arms, and relatively slim legs.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, and darkened velvety skin on the neck and armpits.
+average weight with a typical build and slightly puffy cheeks.
+lean with a lean, toned, compact build and defined legs.
+obese with a slim upper body, very large hips, thighs and calves, column-like legs, soft dimpled skin, and slim ankles and feet.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist.
+underweight with a slender, narrow frame, thin arms and legs, and narrow shoulders.
+underweight with a thin frame, slightly bulging eyes, and thin limbs.
+lean with a slim, light frame and narrow hips.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, one noticeably swollen, thick leg.
+slightly overweight with a broad, muscular, thick-set build, wide shoulders, thick arms and thighs, and a solid chest and waist.
+lean with a slim, slightly stooped frame and thin arms and legs.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, a rounder face, and weight concentrated around the belly.
+slightly overweight with a sturdy build and a slightly softer midsection.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, a puffy face, thinning hair, and dry skin.
+overweight with a stocky, solid, rounded build and no other distinguishing features.
+lean with a slim build and a drained complexion.
+lean with a lean, wiry build, defined muscles, a narrow waist, and little body fat.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds.
+lean with a slim, light build, narrow shoulders, and thin arms.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, symmetric lumpy fat masses around the neck, shoulders and upper arms, and relatively slim legs.
+underweight with a thin frame, thin limbs, and a slightly rounded belly.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a round moon-shaped face, a fat pad on the upper back, thin arms and legs, and stretch marks on the belly.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, a short or webbed neck, a wide chest, and a low hairline at the back.
+lean with a slim build, slightly prominent eyes, and a lean face.
+very underweight with a very thin frame, prominent collarbones and ribs, thin arms and legs, and a worn, tired look.
+underweight with a slender, narrow frame and thin limbs.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds and a soft, evenly distributed fullness.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, a rounder face, and weight concentrated around the belly.
+overweight with a slim upper body, noticeably large hips, thighs and calves, column-like legs, soft dimpled skin, and slim ankles and feet.
+obese with a big, solid, heavy-set build and no other distinguishing features.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, narrow shoulders, wider hips, and sparse facial and body hair.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, and darkened velvety skin on the neck and armpits.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, weight concentrated around the middle, and slimmer legs.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist and a soft, evenly distributed fullness.
+very obese with a huge, thick-set build, a very thick neck, massive shoulders, arms and thighs, and a large chest and belly.
+very underweight with a very thin frame, sunken cheeks, prominent collarbones and ribs, protruding hip bones, thin arms and legs, thin brittle hair, and fine body hair.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs and a soft, evenly distributed fullness.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, a short or webbed neck, a wide chest, and a low hairline at the back.
+overweight with a stocky, solid build and a rounded midsection.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, weight concentrated around the middle, and slimmer legs.
+underweight with a thin frame, sharp collarbones, a narrow face, and bony wrists and shoulders.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, a round moon-shaped face, a fat pad on the upper back, thin arms and legs, and stretch marks on the belly.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, a puffy face, thinning hair, and dry skin.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, extra facial and body hair, and acne.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, a heavy trunk, squinting light-sensitive eyes, and velvety skin patches, darker than the surrounding skin on the neck.
+underweight with a thin frame, hollow cheeks, and a tired look.
+lean with a slim, slender build, a narrow face, and sharp collarbones.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs and a soft, evenly distributed fullness.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture and a broad, heavy trunk.
+average weight with a typical build, loose skin around the arms, belly and neck, and a slightly hollow face.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, a puffy face, thinning hair, and dry skin.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, a short or webbed neck, a wide chest, and a low hairline at the back.
+extremely underweight with a wasted frame, hollow temples and cheeks, sunken eyes, thin limbs, loose thin skin, and thinning hair.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a rounder face, and weight concentrated around the belly.
+underweight with a thin, slightly stooped frame and thin arms and legs.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, a puffy face, thinning hair, and dry skin.
+extremely underweight with a skeletal, emaciated frame, sunken cheeks, hollow eyes, prominent ribs, collarbones and joints, thin brittle hair, fine downy body hair, and a hunched posture.
+extremely obese with a gigantic, powerful build, a very thick neck, massive shoulders, arms and thighs, and a large belly.
+average weight with a typical build, mild extra facial hair, and acne.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, a rounder face, and weight concentrated around the belly.
+very underweight with a very thin, narrow frame and no other distinguishing features.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, weight concentrated around the middle, and slimmer legs.
+very obese with a heavy face, neck and trunk, very thin arms and legs, and prominent veins and muscles on the limbs.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, puffy swollen legs and ankles, a bloated belly, and a puffy face.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a heavy trunk, squinting light-sensitive eyes, and velvety skin patches, darker than the surrounding skin on the neck.
+lean with a slim, long-limbed build, long fingers, and a narrow face.
+lean with a slim build and no obvious signs reading "__text_sign_english__" in __sign_lettering__.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, narrow shoulders, wider hips, and sparse facial and body hair.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, one or both legs greatly swollen with thick, tight skin.
+very underweight with a very thin frame, bulging eyes, a visible swelling at the neck, and thin limbs.
+very underweight with a very slight, narrow frame, thin limbs, and long slender fingers.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, a flatter face, upward-slanting eyes, a short neck, and short broad hands.
+extremely obese with a very big, massive build and no other distinguishing features.
+extremely underweight with a very thin frame and no other distinguishing features.
+very underweight with a very thin, delicate frame, thin limbs, and sometimes a bloated belly.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, small hands and feet, almond-shaped eyes, a thin upper lip, and weight concentrated around the belly and thighs.
+extremely underweight with an emaciated frame, wasted limbs, sunken cheeks and eyes, protruding ribs and pelvis, loose dry skin, and sometimes a swollen belly.
+underweight with a thin frame, a slightly barrel-shaped chest, and rounded fingertips.
+overweight with a broad, large-boned frame, wide shoulders and hips, and a stocky, solid build.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, a flatter face, upward-slanting eyes, a short neck, and short broad hands.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds and a broad, heavy trunk.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs and a broad, heavy trunk.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, small hands and feet, almond-shaped eyes, a thin upper lip, and weight concentrated around the belly and thighs.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, and fatty lumps on the trunk, upper arms and thighs.
+very obese with a slim upper body, massive hips, thighs and calves, column-like legs, soft dimpled skin, and slim ankles and feet.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, extra facial and body hair, and acne.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a puffy face, thinning hair, and dry skin.
+underweight with a thin, long-limbed frame, long fingers, a narrow face, and a sunken or protruding chest.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, a flatter face, upward-slanting eyes, a short neck, and short broad hands.
+slightly overweight with a soft, slightly rounded belly, a slightly fuller face, and a thicker waist, narrow shoulders, wider hips, and sparse facial and body hair.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, a round moon-shaped face, a fat pad on the upper back, thin arms and legs, and stretch marks on the belly.
+very underweight with a very thin, small frame, narrow limbs, and a drained, tired look.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, and darkened velvety skin on the neck and armpits.
+very obese with a very big, heavy-set build and no other distinguishing features.
+very underweight with a very thin frame, thin limbs, and a drawn face.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, narrow shoulders, wider hips, and sparse facial and body hair.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a rapidly gained heavy trunk, and a rounded face.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, puffy swollen legs and ankles, a bloated belly, and a puffy face.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, a rapidly gained heavy trunk, and a rounded face.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, symmetric lumpy fat masses around the neck, shoulders and upper arms, and relatively slim legs.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, extra fingers or toes, and a rounded trunk.
+extremely underweight with a gaunt wasted face, sunken cheeks, thin limbs, prominent ribs, and loose dry skin.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, small hands and feet, almond-shaped eyes, a thin upper lip, and weight concentrated around the belly and thighs.
+overweight with a rounded belly, a fuller face, a thicker waist, and thicker arms and thighs, a flatter face, upward-slanting eyes, a short neck, and short broad hands.
+extremely underweight with a gaunt thin frame, prominent eyes, thin limbs, and sunken cheeks.
+extremely underweight with a wasted frame, thin limbs, sunken temples, a barrel-shaped chest, and a hunched posture.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a flatter face, upward-slanting eyes, a short neck, and short broad hands.
+underweight with a thin frame, hollow cheeks, and a worn look.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, a rapidly gained heavy trunk, and a rounded face.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, one or both legs massively swollen with thick, tight skin folds.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, small hands and feet, almond-shaped eyes, a thin upper lip, and weight concentrated around the belly and thighs.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a short or webbed neck, a wide chest, and a low hairline at the back.
+extremely obese with a slim upper body, massive and very heavy hips, thighs and calves, column-like legs, soft dimpled skin, and slim ankles and feet.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, extra fingers or toes, and a rounded trunk.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture and a soft, evenly distributed fullness.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, extra fingers or toes, and a rounded trunk.
+very underweight with a very thin frame, a barrel-shaped chest, rounded fingertips, and a slight, stooped posture.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, puffy swollen legs and ankles, a bloated belly, and a puffy face.
+extremely underweight with almost no body fat, very visible muscles and veins, a muscular but gaunt look, and a swollen belly.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, and fatty lumps on the trunk, upper arms and thighs.
+extremely obese with a massive body with a very large belly, a rounded face with multiple chins, a thick neck, very heavy arms and thighs, deep skin folds, and a wide, waddling posture, an extremely heavy build since early childhood, and a rounded face.
+very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, and darkened velvety skin on the neck and armpits.
+obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, a round moon-shaped face, a fat pad on the upper back, thin arms and legs, and stretch marks on the belly.

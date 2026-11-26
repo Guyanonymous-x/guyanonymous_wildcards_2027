@@ -1,0 +1,1 @@
+__loc_vehicle_sonar_shack_clean__ The loose items include __loc_vehicle_sonar_shack_items__.

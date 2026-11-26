@@ -1,0 +1,2 @@
+__ob_metal_mat__
+slate

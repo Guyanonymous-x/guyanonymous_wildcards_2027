@@ -1,0 +1,7 @@
+The evening arrival and the check starting at eleven
+The small hours, which is the working day
+The defect that appears at three in the morning and must be either fixed or deferred against a minimum equipment list
+The release to service and the signature
+The aircraft out at six and the hangar empty
+The day shift on scheduled work
+__loc_time_of_day__

@@ -1,0 +1,6 @@
+a headlamp beam setter running on a floor rail
+a lift or a pit
+an exhaust gas analyzer
+a printer
+lighting to a specified level which makes this the best-lit room in the building by a wide margin
+a sign reading "__loc_text_notice__" naming the tester and their number

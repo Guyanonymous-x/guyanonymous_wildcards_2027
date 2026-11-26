@@ -1,0 +1,1 @@
+The location is a bustee dwelling. Its materials are __loc_dwelling_bustee_dwelling_materials__. __loc_dwelling_bustee_dwelling_light__. __loc_dwelling_bustee_dwelling_signature__.

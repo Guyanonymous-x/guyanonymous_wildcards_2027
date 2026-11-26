@@ -1,0 +1,5 @@
+broadsheet
+tabloid headlined "__text_headline__" __text_look_headline__
+thick Sunday
+thin local weekly
+single-sheet extra

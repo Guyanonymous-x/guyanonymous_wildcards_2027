@@ -1,0 +1,1 @@
+__loc_odd_private_island_clean__ The location is __loc_odd_private_island_condition__. The loose items include __loc_odd_private_island_items__.

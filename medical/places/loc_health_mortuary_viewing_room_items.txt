@@ -1,0 +1,6 @@
+a box of tissues
+a single chair
+a candle that may be lit
+a book of remembrance
+flowers brought by a family
+a card with the person's name, "__name_person__"

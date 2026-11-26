@@ -1,0 +1,1 @@
+The location is a forklift cab. Its materials are __loc_vehicle_forklift_cab_materials__. __loc_vehicle_forklift_cab_light__. __loc_vehicle_forklift_cab_signature__.

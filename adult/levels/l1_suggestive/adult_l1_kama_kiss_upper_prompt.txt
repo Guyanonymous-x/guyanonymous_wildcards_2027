@@ -1,0 +1,9 @@
+The picture contains two people, Jae-won and Daniela. Jae-won is __adult_m_short_named__ Daniela is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_wm_medium__ __adult_kama_set_stand__.
+The picture contains two people, Jae-won and Daniela. Jae-won is __adult_m_short_named__ Daniela is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_wm_long__ __adult_kama_set_stand__.
+The picture contains two people, Jae-won and Daniela. Jae-won is __adult_m_short_named__ Daniela is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_wm_medium__ __adult_kama_set_stand__. __adult_kama_wrong_stand__.
+The picture contains two people, Malik and Erik. Malik is __adult_m_short_named__ Erik is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_mm_medium__ __adult_kama_set_stand__.
+The picture contains two people, Malik and Erik. Malik is __adult_m_short_named__ Erik is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_mm_long__ __adult_kama_set_stand__.
+The picture contains two people, Malik and Erik. Malik is __adult_m_short_named__ Erik is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_mm_medium__ __adult_kama_set_stand__. __adult_kama_wrong_stand__.
+The picture contains two people, Malia and Soo-jin. Malia is __adult_w_short_named__ Soo-jin is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_ww_medium__ __adult_kama_set_stand__.
+The picture contains two people, Malia and Soo-jin. Malia is __adult_w_short_named__ Soo-jin is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_ww_long__ __adult_kama_set_stand__.
+The picture contains two people, Malia and Soo-jin. Malia is __adult_w_short_named__ Soo-jin is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_upper_ww_medium__ __adult_kama_set_stand__. __adult_kama_wrong_stand__.

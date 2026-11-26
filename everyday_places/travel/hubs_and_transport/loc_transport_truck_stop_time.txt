@@ -1,0 +1,2 @@
+Drivers must stop, so the parking fills in the evening and empties before dawn, and the overnight state is the normal one
+__loc_time_of_day__

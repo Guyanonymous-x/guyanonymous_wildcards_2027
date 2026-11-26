@@ -1,0 +1,3 @@
+The room looks the same at every hour
+Access is by appointment and the room is locked and empty between
+__loc_time_of_day__

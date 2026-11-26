@@ -1,0 +1,1 @@
+The location is a bodyshop preparation area. Its materials are __loc_depot_bodyshop_preparation_area_materials__. __loc_depot_bodyshop_preparation_area_light__. __loc_depot_bodyshop_preparation_area_signature__.

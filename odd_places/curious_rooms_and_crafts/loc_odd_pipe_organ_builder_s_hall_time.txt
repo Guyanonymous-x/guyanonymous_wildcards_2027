@@ -1,0 +1,3 @@
+The pipe organ builder's hall looks the same at every hour of the day
+Voicing in particular requires consistent conditions
+__loc_time_of_day__

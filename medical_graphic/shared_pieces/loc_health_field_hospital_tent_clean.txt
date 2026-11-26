@@ -1,0 +1,1 @@
+The location is a field hospital tent. Its materials are __loc_health_field_hospital_tent_materials__. __loc_health_field_hospital_tent_light__. __loc_health_field_hospital_tent_signature__.

@@ -1,0 +1,1 @@
+The location is a mortuary viewing room. Its materials are __loc_health_mortuary_viewing_room_materials__. __loc_health_mortuary_viewing_room_light__. __loc_health_mortuary_viewing_room_signature__.

@@ -1,0 +1,9 @@
+Eight, empty, full light, cleaners
+Nine, a lecture, two hundred in, the lights down
+Nine fifty, emptying in four minutes through two doors, which is the room's one genuinely dramatic event
+Ten, the next cohort
+One, a smaller group in a room sized for two hundred
+Five, a public lecture with a different audience
+The evening, a film society
+The vacation, a conference with a lanyard table at the door
+__loc_time_of_day__

@@ -1,0 +1,4 @@
+Day, curtains open, table bare, post piled at one end
+Evening, laid and lit, curtains drawn
+After dinner, plates cleared to the sideboard, glasses remaining, candles low
+__loc_time_of_day__

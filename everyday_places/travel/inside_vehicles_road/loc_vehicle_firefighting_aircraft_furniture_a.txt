@@ -1,0 +1,5 @@
+two flight deck seats
+a tank quantity gauge
+a retardant line
+helmets
+a flow selector

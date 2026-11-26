@@ -1,0 +1,2 @@
+__condition_clothing_prompt__
+__condition_sign_prompt__

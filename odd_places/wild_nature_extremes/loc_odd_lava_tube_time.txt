@@ -1,0 +1,2 @@
+The shaft of daylight from a skylight moves across the floor through the day and vanishes at dusk
+__loc_time_of_day__

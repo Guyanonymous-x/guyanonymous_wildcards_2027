@@ -1,0 +1,9 @@
+The picture contains one person, Oksana. Oksana is __f_create_random_woman_short_named__ Oksana wears __clothing_period_d1970_prompt__.
+The picture contains one person, Oksana. Oksana is __f_create_random_woman_short_named__ Oksana wears __clothing_period_d1970_mix_prompt__.
+The picture contains one person, Oksana. Oksana is __f_create_random_woman_short_named__ Oksana wears __clothing_period_d1970_garment__, with __clothing_period_d1970_head__ on her head and __clothing_period_d1970_foot__ on her feet, and __clothing_period_d1970_jewel__. Oksana carries __clothing_period_d1970_bag__. Oksana's clothes are in the fashion of the 1970s.
+The picture contains one person, Taras. Taras is __m_create_random_man_short_named__ Taras wears __clothing_period_d1970_prompt__.
+The picture contains one person, Taras. Taras is __m_create_random_man_short_named__ Taras wears __clothing_period_d1970_mix_prompt__.
+The picture contains one person, Taras. Taras is __m_create_random_man_short_named__ Taras wears __clothing_period_d1970_garment__, with __clothing_period_d1970_head__ on his head and __clothing_period_d1970_foot__ on his feet, and __clothing_period_d1970_jewel__. Taras carries __clothing_period_d1970_bag__. Taras's clothes are in the fashion of the 1970s.
+The picture contains one person, Selasi. Selasi is __any_create_random_person_short_named__ Selasi wears __clothing_period_d1970_prompt__.
+The picture contains one person, Selasi. Selasi is __any_create_random_person_short_named__ Selasi wears __clothing_period_d1970_mix_prompt__.
+The picture contains one person, Selasi. Selasi is __any_create_random_person_short_named__ Selasi wears __clothing_period_d1970_garment__, with __clothing_period_d1970_head__ on Selasi's head and __clothing_period_d1970_foot__ on Selasi's feet, and __clothing_period_d1970_jewel__. Selasi carries __clothing_period_d1970_bag__. Selasi's clothes are in the fashion of the 1970s.

@@ -1,0 +1,1 @@
+__loc_odd_salt_mine_chamber_clean__ __loc_odd_salt_mine_chamber_region_look__. The loose items include __loc_odd_salt_mine_chamber_items__.

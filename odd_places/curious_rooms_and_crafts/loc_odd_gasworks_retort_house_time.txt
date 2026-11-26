@@ -1,0 +1,3 @@
+Continuous operation in shifts
+The work was done in heat and darkness regardless of the hour outside
+__loc_time_of_day__

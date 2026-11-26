@@ -1,0 +1,5 @@
+street signs reading "__loc_text_notice__"
+latrine blocks
+a school tent
+a distribution point
+a football pitch

@@ -1,0 +1,1 @@
+The location is a communal fire and cooking area. Its materials are __loc_dwelling_communal_fire_and_cooking_area_materials__. __loc_dwelling_communal_fire_and_cooking_area_light__. __loc_dwelling_communal_fire_and_cooking_area_signature__.

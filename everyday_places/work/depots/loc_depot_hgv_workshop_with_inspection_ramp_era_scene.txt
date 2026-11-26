@@ -1,0 +1,1 @@
+__loc_depot_hgv_workshop_with_inspection_ramp_clean__ The location is __loc_depot_hgv_workshop_with_inspection_ramp_condition__. The loose items include __loc_depot_hgv_workshop_with_inspection_ramp_items__.

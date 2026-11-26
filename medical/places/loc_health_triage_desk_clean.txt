@@ -1,0 +1,1 @@
+The location is a triage desk. Its materials are __loc_health_triage_desk_materials__, and the palette is __loc_health_triage_desk_palette__. __loc_health_triage_desk_light__. __loc_health_triage_desk_signature__.

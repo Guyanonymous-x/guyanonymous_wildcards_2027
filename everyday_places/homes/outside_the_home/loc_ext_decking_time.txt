@@ -1,0 +1,5 @@
+Morning, wet with dew, slippery, furniture still covered
+Afternoon, hot underfoot, parasol up
+Evening, deck lights on, hot tub lid off, candles
+Winter, furniture stacked and the boards black with wet
+__loc_time_of_day__

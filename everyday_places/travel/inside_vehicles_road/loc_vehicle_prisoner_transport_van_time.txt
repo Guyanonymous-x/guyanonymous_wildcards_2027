@@ -1,0 +1,5 @@
+Early, the first run to court, dark, the corridor lit
+Midday, waiting in a court yard with the engine running for the air conditioning
+Evening, the return run
+The interior has no daylight cycle, only a timetable
+__loc_time_of_day__

@@ -1,0 +1,1 @@
+The location is a temporary classroom in a prefabricated hut. Its materials are __loc_edu_temporary_classroom_in_a_prefabricated_hut_materials__. __loc_edu_temporary_classroom_in_a_prefabricated_hut_light__. __loc_edu_temporary_classroom_in_a_prefabricated_hut_signature__.

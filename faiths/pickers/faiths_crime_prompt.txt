@@ -1,0 +1,2 @@
+__cult_prompt__
+__relic_prompt__

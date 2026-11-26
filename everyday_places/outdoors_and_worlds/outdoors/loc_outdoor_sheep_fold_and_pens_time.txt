@@ -1,0 +1,3 @@
+Gathering starts at first light because sheep move better in the cool
+The handling day is over by early afternoon
+__loc_time_of_day__

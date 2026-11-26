@@ -1,0 +1,3 @@
+A woman of __countries_demonyms__ nationality, __preg_age45_50_age_years__. She has __age50_54_eye_color__ and __age50_54_hair_color__, and she has __dem_tone__. __f_age50_54_aging_summary__
+A woman, __preg_age45_50_age_years__, from __countries__, has __age50_54_eye_color__, __age50_54_hair_color__ and __dem_tone__. __f_age50_54_aging_summary__
+A woman, __preg_age45_50_age_years__, who holds __countries_demonyms__ nationality, with __age50_54_hair_color__, __age50_54_eye_color__ and __dem_tone__. __f_age50_54_aging_summary__

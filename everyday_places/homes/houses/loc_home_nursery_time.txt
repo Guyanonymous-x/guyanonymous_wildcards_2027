@@ -1,0 +1,4 @@
+Day, blind up, cot empty and made, floor clear
+Evening, bath-time aftermath, blind down, lamp low
+Night, near dark, monitor light, chair in use
+__loc_time_of_day__

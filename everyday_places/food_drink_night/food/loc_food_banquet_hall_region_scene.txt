@@ -1,0 +1,1 @@
+__loc_food_banquet_hall_clean__ __loc_food_banquet_hall_region_look__. The loose items include __loc_food_banquet_hall_items__.

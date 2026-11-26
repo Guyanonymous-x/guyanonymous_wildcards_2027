@@ -1,0 +1,3 @@
+a wall-mounted cigarette bin
+a sign reading "__loc_text_nosmoking__"
+a drainage channel

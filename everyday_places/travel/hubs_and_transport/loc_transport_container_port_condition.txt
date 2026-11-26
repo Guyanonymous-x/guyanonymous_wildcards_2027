@@ -1,0 +1,3 @@
+a modern semi-automated terminal
+an older terminal with more manual handling
+a terminal being automated, which is industrially and politically contentious

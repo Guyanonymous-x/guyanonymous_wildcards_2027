@@ -1,0 +1,9 @@
+The picture contains one person, Nayeli. Nayeli is __f_create_random_woman_short_named__ Nayeli wears __clothing_period_d1910_prompt__.
+The picture contains one person, Nayeli. Nayeli is __f_create_random_woman_short_named__ Nayeli wears __clothing_period_d1910_mix_prompt__.
+The picture contains one person, Nayeli. Nayeli is __f_create_random_woman_short_named__ Nayeli wears __clothing_period_d1910_garment__, with __clothing_period_d1910_head__ on her head and __clothing_period_d1910_foot__ on her feet, and __clothing_period_d1910_jewel__. Nayeli carries __clothing_period_d1910_bag__. Nayeli's clothes are in the fashion of the 1910s.
+The picture contains one person, Karim. Karim is __m_create_random_man_short_named__ Karim wears __clothing_period_d1910_prompt__.
+The picture contains one person, Karim. Karim is __m_create_random_man_short_named__ Karim wears __clothing_period_d1910_mix_prompt__.
+The picture contains one person, Karim. Karim is __m_create_random_man_short_named__ Karim wears __clothing_period_d1910_garment__, with __clothing_period_d1910_head__ on his head and __clothing_period_d1910_foot__ on his feet, and __clothing_period_d1910_jewel__. Karim carries __clothing_period_d1910_bag__. Karim's clothes are in the fashion of the 1910s.
+The picture contains one person, Linh. Linh is __any_create_random_person_short_named__ Linh wears __clothing_period_d1910_prompt__.
+The picture contains one person, Linh. Linh is __any_create_random_person_short_named__ Linh wears __clothing_period_d1910_mix_prompt__.
+The picture contains one person, Linh. Linh is __any_create_random_person_short_named__ Linh wears __clothing_period_d1910_garment__, with __clothing_period_d1910_head__ on Linh's head and __clothing_period_d1910_foot__ on Linh's feet, and __clothing_period_d1910_jewel__. Linh carries __clothing_period_d1910_bag__. Linh's clothes are in the fashion of the 1910s.

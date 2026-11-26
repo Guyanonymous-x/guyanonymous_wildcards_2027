@@ -1,0 +1,6 @@
+sealed foil packets in boxes
+barcode labels reading "__loc_text_label__"
+a thermometer log
+gloves
+a trolley
+an inventory printout

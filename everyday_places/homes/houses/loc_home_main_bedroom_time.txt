@@ -1,0 +1,5 @@
+Morning, curtains open, bed unmade, clothes chosen and discarded
+Day, bed made, room still
+Evening, curtains closed, lamps on, clothes accumulating on the chair
+Night, one lamp, phone face-down
+__loc_time_of_day__

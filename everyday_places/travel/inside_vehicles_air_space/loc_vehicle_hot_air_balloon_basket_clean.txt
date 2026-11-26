@@ -1,0 +1,1 @@
+The location is a hot air balloon basket. Its materials are __loc_vehicle_hot_air_balloon_basket_materials__. __loc_vehicle_hot_air_balloon_basket_light__. __loc_vehicle_hot_air_balloon_basket_signature__.

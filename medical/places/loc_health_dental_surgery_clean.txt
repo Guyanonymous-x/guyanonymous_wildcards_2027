@@ -1,0 +1,1 @@
+The location is a dental surgery. Its materials are __loc_health_dental_surgery_materials__. __loc_health_dental_surgery_light__. __loc_health_dental_surgery_signature__.

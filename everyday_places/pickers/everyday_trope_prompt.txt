@@ -1,0 +1,2 @@
+__trope_shot_prompt__
+__trope_moment_prompt__

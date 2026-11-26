@@ -1,0 +1,3 @@
+a roof sign reading "__text_sign_english__" in __sign_lettering__
+a fare meter
+a bright body colour

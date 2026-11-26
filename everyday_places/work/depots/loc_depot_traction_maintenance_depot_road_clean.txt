@@ -1,0 +1,1 @@
+The location is a traction maintenance depot road. Its materials are __loc_depot_traction_maintenance_depot_road_materials__. __loc_depot_traction_maintenance_depot_road_light__. __loc_depot_traction_maintenance_depot_road_signature__.

@@ -1,0 +1,5 @@
+Morning, bifolds shut, breakfast on the island, blinds down
+Afternoon, doors open to the garden, table covered in homework
+Evening, table laid, pendant on, doors closed
+After a meal, plates stacked, candle burnt down
+__loc_time_of_day__

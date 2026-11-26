@@ -1,0 +1,3 @@
+deep shadows lit by the main light alone
+subtle reflected light
+pronounced colored bounce light

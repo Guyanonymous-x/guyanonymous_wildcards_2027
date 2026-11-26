@@ -1,0 +1,9 @@
+The picture contains one person, Shirin. Shirin is __f_create_random_woman_short_named__ Shirin wears __clothing_period_d1940_prompt__.
+The picture contains one person, Shirin. Shirin is __f_create_random_woman_short_named__ Shirin wears __clothing_period_d1940_mix_prompt__.
+The picture contains one person, Shirin. Shirin is __f_create_random_woman_short_named__ Shirin wears __clothing_period_d1940_garment__, with __clothing_period_d1940_head__ on her head and __clothing_period_d1940_foot__ on her feet, and __clothing_period_d1940_jewel__. Shirin carries __clothing_period_d1940_bag__. Shirin's clothes are in the fashion of the 1940s.
+The picture contains one person, Farhad. Farhad is __m_create_random_man_short_named__ Farhad wears __clothing_period_d1940_prompt__.
+The picture contains one person, Farhad. Farhad is __m_create_random_man_short_named__ Farhad wears __clothing_period_d1940_mix_prompt__.
+The picture contains one person, Farhad. Farhad is __m_create_random_man_short_named__ Farhad wears __clothing_period_d1940_garment__, with __clothing_period_d1940_head__ on his head and __clothing_period_d1940_foot__ on his feet, and __clothing_period_d1940_jewel__. Farhad carries __clothing_period_d1940_bag__. Farhad's clothes are in the fashion of the 1940s.
+The picture contains one person, Sophea. Sophea is __any_create_random_person_short_named__ Sophea wears __clothing_period_d1940_prompt__.
+The picture contains one person, Sophea. Sophea is __any_create_random_person_short_named__ Sophea wears __clothing_period_d1940_mix_prompt__.
+The picture contains one person, Sophea. Sophea is __any_create_random_person_short_named__ Sophea wears __clothing_period_d1940_garment__, with __clothing_period_d1940_head__ on Sophea's head and __clothing_period_d1940_foot__ on Sophea's feet, and __clothing_period_d1940_jewel__. Sophea carries __clothing_period_d1940_bag__. Sophea's clothes are in the fashion of the 1940s.

@@ -1,0 +1,1 @@
+The location is a hotel lobby. Its materials are __loc_food_hotel_lobby_materials__, and the palette is __loc_food_hotel_lobby_palette__. __loc_food_hotel_lobby_light__. __loc_food_hotel_lobby_signature__. On view is __loc_food_hotel_lobby_sign__.

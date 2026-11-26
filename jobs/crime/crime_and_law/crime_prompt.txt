@@ -1,0 +1,3 @@
+__raid_prompt__
+__crim_action_prompt__
+__pawn_prompt__

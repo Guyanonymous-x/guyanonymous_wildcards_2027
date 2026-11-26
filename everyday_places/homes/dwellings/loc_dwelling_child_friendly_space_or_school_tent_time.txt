@@ -1,0 +1,8 @@
+Very early, the first shift
+Mid-morning, the second
+The heat of the day, when the tent is unusable in hot climates and the shift pattern is built round it
+The afternoon shift
+The end of the day, with the books counted back into the box
+A day when the water or the food distribution clashes and attendance halves
+A holiday or a festival, which is organized here
+__loc_time_of_day__

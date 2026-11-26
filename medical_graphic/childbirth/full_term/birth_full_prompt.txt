@@ -1,0 +1,6 @@
+__birth_full_l1_prompt__
+__birth_full_l2_prompt__
+__birth_full_l3_prompt__
+__birth_full_l4_prompt__
+__birth_full_l5_prompt__
+__birth_full_l6_prompt__

@@ -1,0 +1,3 @@
+Morning and evening, the door open, coats taken and returned
+Otherwise closed
+__loc_time_of_day__

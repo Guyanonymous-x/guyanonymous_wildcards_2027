@@ -1,0 +1,1 @@
+The location is a washing line and drying area. Its materials are __loc_ext_washing_line_and_drying_area_materials__. __loc_ext_washing_line_and_drying_area_light__. __loc_ext_washing_line_and_drying_area_signature__.

@@ -1,0 +1,1 @@
+The location is an electric car interior. Its materials are __loc_vehicle_electric_car_interior_materials__. __loc_vehicle_electric_car_interior_light__. __loc_vehicle_electric_car_interior_signature__.

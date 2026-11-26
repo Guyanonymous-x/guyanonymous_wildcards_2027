@@ -1,0 +1,2 @@
+universal
+case layouts differ by language, which is a genuine and visible difference

@@ -1,0 +1,3 @@
+__loc_retail_pharmacy_scene_plus__
+__loc_retail_optometrist_scene_plus__
+__loc_retail_dentist_s_office_scene_plus__

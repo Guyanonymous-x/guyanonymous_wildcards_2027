@@ -1,0 +1,1 @@
+__loc_food_sauna_clean__ __loc_food_sauna_region_look__. The loose items include __loc_food_sauna_items__.

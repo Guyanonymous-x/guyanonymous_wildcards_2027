@@ -1,0 +1,3 @@
+__fx_magic_real_prompt__
+__fx_miraculous_real_prompt__
+__fx_cultural_real_prompt__

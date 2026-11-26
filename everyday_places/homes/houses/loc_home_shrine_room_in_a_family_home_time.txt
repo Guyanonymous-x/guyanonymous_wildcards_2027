@@ -1,0 +1,4 @@
+Morning, offerings refreshed, incense lit, doors opened
+Evening, a second lighting, lamp on
+Festival days, far more offerings and flowers than usual
+__loc_time_of_day__

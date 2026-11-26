@@ -1,0 +1,2 @@
+__frame_food_prompt__
+__frame_table_prompt__

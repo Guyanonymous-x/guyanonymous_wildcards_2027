@@ -1,0 +1,1 @@
+__loc_dwelling_tuareg_tent_clean__ __loc_dwelling_tuareg_tent_region_look__. The loose items include __loc_dwelling_tuareg_tent_items__.

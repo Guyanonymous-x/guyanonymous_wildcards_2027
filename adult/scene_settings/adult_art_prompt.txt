@@ -1,0 +1,6 @@
+__adult_l1_art_prompt__
+__adult_l2_art_prompt__
+__adult_l3_art_prompt__
+__adult_l4_art_prompt__
+__adult_l5_art_prompt__
+__adult_l6_art_prompt__

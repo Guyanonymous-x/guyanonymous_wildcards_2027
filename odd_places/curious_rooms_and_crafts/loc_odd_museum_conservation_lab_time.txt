@@ -1,0 +1,3 @@
+The museum conservation lab looks the same at every hour of the day
+Daylight is excluded for consistency
+__loc_time_of_day__

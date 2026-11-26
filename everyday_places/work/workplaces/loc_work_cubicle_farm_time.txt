@@ -1,0 +1,4 @@
+Full
+Half empty at lunch
+One lit cubicle at night
+__loc_time_of_day__

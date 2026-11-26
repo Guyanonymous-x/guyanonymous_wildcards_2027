@@ -1,0 +1,5 @@
+Fabrication welding runs through a normal shift
+Repair welding happens when the plant is down, so at night and at weekends
+A hot work permit limits when and where welding may happen and usually ends an hour before the building closes so the fire watch can be kept
+A long coded job with pre-heat and post-weld heat treatment, which runs continuously and cannot be interrupted
+__loc_time_of_day__

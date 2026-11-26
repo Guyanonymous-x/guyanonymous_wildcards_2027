@@ -1,0 +1,3 @@
+The patch panel with colored leads routed through vertical managers
+The blue status lights on the racks
+The blanking plates in the racks

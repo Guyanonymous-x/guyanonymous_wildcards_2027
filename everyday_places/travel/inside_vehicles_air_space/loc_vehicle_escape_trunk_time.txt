@@ -1,0 +1,3 @@
+It is dark and empty for weeks, used for a drill on a set day, walked through as a passageway in some classes, inspected at a refit, and in its designed role used once or never
+The trunk looks the same at every hour; at four in the morning with the light off it is completely dark
+__loc_time_of_day__

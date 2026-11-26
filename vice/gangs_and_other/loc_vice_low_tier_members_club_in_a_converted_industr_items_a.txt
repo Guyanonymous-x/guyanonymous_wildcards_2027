@@ -1,0 +1,10 @@
+a first-floor unit in a small industrial building reached by an external steel stair
+a lobby with a desk
+a membership register in a ring binder and a card printer
+low tables
+a pool table
+a wall of members' artwork
+a logbook and a per-member monthly allocation chart
+extraction ducting and a sign reading "__loc_text_notice__" limiting access to two named members
+a notice board of general meetings headed "GENERAL MEETING __name_year__" __text_look_paper_notice__, the rest of the board bare cork
+a fire alarm panel and a tested log

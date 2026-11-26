@@ -1,0 +1,9 @@
+The picture contains two people, Pedro and Thandi. Pedro is __adult_m_short_named__ Thandi is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_wm_medium__ __adult_kama_set_stand__.
+The picture contains two people, Pedro and Thandi. Pedro is __adult_m_short_named__ Thandi is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_wm_long__ __adult_kama_set_stand__.
+The picture contains two people, Pedro and Thandi. Pedro is __adult_m_short_named__ Thandi is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_wm_medium__ __adult_kama_set_stand__. __adult_kama_wrong_stand__.
+The picture contains two people, Tariq and Nikolai. Tariq is __adult_m_short_named__ Nikolai is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_mm_medium__ __adult_kama_set_stand__.
+The picture contains two people, Tariq and Nikolai. Tariq is __adult_m_short_named__ Nikolai is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_mm_long__ __adult_kama_set_stand__.
+The picture contains two people, Tariq and Nikolai. Tariq is __adult_m_short_named__ Nikolai is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_mm_medium__ __adult_kama_set_stand__. __adult_kama_wrong_stand__.
+The picture contains two people, Marta and Laila. Marta is __adult_w_short_named__ Laila is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_ww_medium__ __adult_kama_set_stand__.
+The picture contains two people, Marta and Laila. Marta is __adult_w_short_named__ Laila is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_ww_long__ __adult_kama_set_stand__.
+The picture contains two people, Marta and Laila. Marta is __adult_w_short_named__ Laila is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_kiss_turned_ww_medium__ __adult_kama_set_stand__. __adult_kama_wrong_stand__.

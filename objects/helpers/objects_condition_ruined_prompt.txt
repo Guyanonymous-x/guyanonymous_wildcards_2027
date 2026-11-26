@@ -1,0 +1,3 @@
+__condition_object_heavy_prompt__
+__condition_book_heavy_prompt__
+__condition_statue_heavy_prompt__

@@ -1,0 +1,3 @@
+Yard hours
+The crusher running is the event
+__loc_time_of_day__

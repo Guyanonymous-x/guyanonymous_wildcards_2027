@@ -1,0 +1,3 @@
+The mechanical organ hall looks the same at every hour of the day
+The instruments play when a token is inserted
+__loc_time_of_day__

@@ -1,0 +1,16 @@
+stamped leather
+embossed leather
+debossed rubber-like
+woven cloth
+embroidered cloth
+enamelled metal
+stamped metal
+engraved metal
+etched metal
+low-relief cast metal
+printed paper
+printed canvas
+stitched canvas
+moulded plastic
+inlaid wood
+printed card

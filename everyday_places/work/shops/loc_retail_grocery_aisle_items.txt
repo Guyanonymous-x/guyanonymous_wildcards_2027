@@ -1,0 +1,12 @@
+canned goods
+cereal boxes printed "__name_brand_upper__" in large red block capitals
+pasta
+jars
+bottles
+bags of rice printed "__name_brand_upper__ RICE" __text_look_print__
+snacks
+shelf-edge price labels reading "__name_price__"
+promotional shelf talkers
+a shopping list in a hand
+a basket
+a dropped coupon

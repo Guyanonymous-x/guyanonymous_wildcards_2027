@@ -1,0 +1,2 @@
+Occupied before and after sittings and during adjournments, which is when the real work of the day happens
+__loc_time_of_day__

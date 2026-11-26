@@ -1,0 +1,5 @@
+__fx_pair_optical_spectacle_1_subject__ The scene shows a person apparently holding up a giant tower with a pinch of two fingers. The effect is __fx_pair_optical_spectacle_1_strength__.
+__fx_pair_optical_spectacle_3_subject__ The scene shows a huge painted pavement scene of a bridge over a canyon, with people apparently hanging above the drop. The effect is __fx_pair_optical_spectacle_3_strength__.
+__fx_pair_optical_spectacle_5_subject__ The scene shows a set of stairs turning back on themselves in a loop, with people walking up and down it at once. The effect is __fx_pair_optical_spectacle_5_strength__.
+__fx_pair_optical_spectacle_6_subject__ The scene shows a city floating upside down above the horizon on a desert road. The effect is __fx_pair_optical_spectacle_6_strength__.
+__fx_pair_optical_spectacle_7_subject__ The scene shows a flat wall painted so that a tunnel seems to open through it. The effect is __fx_pair_optical_spectacle_7_strength__.

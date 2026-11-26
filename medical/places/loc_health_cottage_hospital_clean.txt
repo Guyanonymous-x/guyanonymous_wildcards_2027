@@ -1,0 +1,1 @@
+The location is a cottage hospital. Its materials are __loc_health_cottage_hospital_materials__. __loc_health_cottage_hospital_light__. __loc_health_cottage_hospital_signature__. On view is __loc_health_cottage_hospital_sign__.

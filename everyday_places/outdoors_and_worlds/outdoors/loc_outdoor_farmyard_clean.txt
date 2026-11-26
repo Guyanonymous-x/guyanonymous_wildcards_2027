@@ -1,0 +1,1 @@
+The location is a farmyard. Its materials are __loc_outdoor_farmyard_materials__, and the palette is __loc_outdoor_farmyard_palette__. __loc_outdoor_farmyard_light__. __loc_outdoor_farmyard_signature__.

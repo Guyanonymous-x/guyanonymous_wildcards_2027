@@ -1,0 +1,2 @@
+The pre-match hour, the half-time interval and the post-match are three sharply distinct states in one afternoon
+__loc_time_of_day__

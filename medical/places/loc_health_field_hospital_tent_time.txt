@@ -1,0 +1,5 @@
+Daylight, the fabric glows and the interior is shadowless
+Evening, work lights on, the tent visible as a lantern from outside, which is its signature image
+Night, head torches, the generator, cooler and quieter
+After a mass casualty event, full, which is a different record
+__loc_time_of_day__

@@ -1,0 +1,6 @@
+__loc_outdoor_beach_at_low_tide_scene__
+__loc_outdoor_sand_dunes_scene__
+__loc_outdoor_salt_marsh_scene__
+__loc_outdoor_moorland_scene__
+__loc_outdoor_mountain_summit_scene__
+__loc_outdoor_cave_system_scene__

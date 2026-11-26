@@ -1,0 +1,1 @@
+The location is a ferry car deck. Its materials are __loc_vehicle_ferry_car_deck_materials__. __loc_vehicle_ferry_car_deck_light__. __loc_vehicle_ferry_car_deck_signature__. On view is __loc_vehicle_ferry_car_deck_sign__.

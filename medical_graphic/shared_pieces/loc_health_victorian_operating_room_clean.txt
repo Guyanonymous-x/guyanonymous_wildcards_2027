@@ -1,0 +1,1 @@
+The location is a victorian operating room. Its materials are __loc_health_victorian_operating_room_materials__. __loc_health_victorian_operating_room_light__. __loc_health_victorian_operating_room_signature__.

@@ -1,0 +1,2 @@
+Fills in the morning and empties in the evening at a station hub, which is the exact inverse of the parking lot it often replaces
+__loc_time_of_day__

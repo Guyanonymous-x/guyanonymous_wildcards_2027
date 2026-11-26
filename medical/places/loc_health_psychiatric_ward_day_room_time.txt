@@ -1,0 +1,2 @@
+The day has a strong structure of meals, medication rounds, activities and visiting, and the day room is where the waiting between them happens
+__loc_time_of_day__

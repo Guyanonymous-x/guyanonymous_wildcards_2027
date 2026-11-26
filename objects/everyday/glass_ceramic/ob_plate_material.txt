@@ -1,0 +1,7 @@
+granite
+brass
+tinplate
+enamelled metal
+plastic
+iron
+steel

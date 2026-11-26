@@ -1,0 +1,1 @@
+The location is a twenty-four-hour study floor. Its materials are __loc_edu_twenty_four_hour_study_floor_materials__. __loc_edu_twenty_four_hour_study_floor_light__. __loc_edu_twenty_four_hour_study_floor_signature__.

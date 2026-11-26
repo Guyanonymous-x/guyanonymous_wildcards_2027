@@ -1,0 +1,3 @@
+__loc_odd_floating_market_scene__
+__loc_odd_cobbler_s_shop_scene__
+__loc_odd_apothecary_scene__

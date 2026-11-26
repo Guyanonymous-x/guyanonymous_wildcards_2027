@@ -1,0 +1,6 @@
+a POS terminal
+a barcode scanner
+a receipt printer
+a bagging area
+a scale
+queue barriers

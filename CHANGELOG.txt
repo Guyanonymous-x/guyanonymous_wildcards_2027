@@ -1,0 +1,34 @@
+Guyanonymous' Wildcards 2027 - Changelog (current: v1.0)
+=======================================================
+
+Version 1.0 (2027 edition)
+--------------------------
+Why a new version 1.0
+Version 1.0 is a redesign of the structure of the wildcard system, with content fixes. New content comes in the versions after it.
+
+The old pack (up to v133) kept all 188,730 of its lists in one folder. At that size it had grown too heavy to keep updating: every change meant reading and checking that one huge folder, which took a great deal of computer power and time. It also needed better organisation, structure and rules.
+
+Version 1.0 keeps the lists, fixed, and sorts them into modules:
+- A core of three (People, Clothing, Helpers) and 15 add-ons. Each add-on needs only the core, so you install only what you want.
+- Each module's lists sit in plain, named folders, so you can find a list by browsing, and each module has its own README, catalog PDF and version number.
+- Each module is checked and updated on its own, with its own rules, so updates are quicker and safer.
+- 18+ material is kept in its own modules (Adult, Medical Graphic).
+
+Guyanonymous' Wildcards 2027 is made to be more future-proof and expandable, and easier to use. Its home, for every 2027 version, is https://github.com/Guyanonymous-x/guyanonymous_wildcards_2027. The old pack (up to v133), the former line of releases that Wildcards 2027 replaces, and its changelog stay at https://github.com/Guyanonymous-x/guyanonymous_wildcards.
+
+From here on, v1.0 is the first version: later changelogs go back only to v1.0.
+
+* A new start: Guyanonymous' Wildcards 2027 v1.0 replaces the old one-folder pack. The library now comes as 18 zips: the core (People, Clothing, Helpers, always installed together) and 15 add-ons that each need only the core, never another add-on: Everyday Places, Objects, Faiths and Festivals, Jobs and Life, Medical, Medical Graphic (18+), Lairs, Odd Places, Vice, Genres and Fantasy, Toys, Games and Amusements, Vehicles, Weapons, Adult (18+) and Animals and Nature. Each zip has its own version, README and catalog PDF, and its lists sit in plain, named folders. 197,757 lists in all.
+* Medical split at PG-13: Medical holds the places and routine, draped exams at PG-13 and below; Medical Graphic (18+) holds intimate exams, surgery in progress and childbirth. Pregnancy moved to People.
+* Vehicles and Weapons are now two modules; Lairs, Odd Places and Vice are modules of their own. Adult and Medical Graphic got plain folder names (Adult's six levels run from l1_suggestive to l6_climax_and_groups).
+* Ages: 14 new age bands.
+* Gender diverse people: 146 detail lists (binders, top-surgery scars and more) wired into 205 makers, with binder and scar copies in the body lists; a trans woman chain of lists; chest hair for trans men.
+* Names: anyone_names, 257 gender-open names from 23 regions, and the openings that use it; names for everyone described in a scene; fixed names in cast lines.
+* Dressed people at medium and long length: 731 dressed makers with 468 medium body pieces, pickers, group wrappers and _traits start lists. Period clothing now dresses people (38 period person prompts). The 202 pi_ interaction scenes moved to Clothing.
+* Skin: tan and sunburn matched to the skin tone (9 lists).
+* Shrunken people: their pieces grew from 4 to 12 lines, and the people are named.
+* Pregnancy: after-birth and topless makers; the nude after-birth lists moved to Medical Graphic.
+* Nudity: nude detail makers; the nude man makers now say plainly what is visible (penis and scrotum, small and relaxed), with _scene copies; semi-erect and after-sex penis pieces moved to Adult.
+* Wounds: the wound lists were rebuilt in visual words, with places matched to each wound.
+* Ages in visual words: age summaries describe what is seen.
+* Fixes: leftover "adult" labels and gaps; the old index lists retired.

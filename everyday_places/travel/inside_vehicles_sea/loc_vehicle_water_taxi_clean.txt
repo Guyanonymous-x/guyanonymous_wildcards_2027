@@ -1,0 +1,1 @@
+The location is a water taxi. Its materials are __loc_vehicle_water_taxi_materials__. __loc_vehicle_water_taxi_light__. __loc_vehicle_water_taxi_signature__.

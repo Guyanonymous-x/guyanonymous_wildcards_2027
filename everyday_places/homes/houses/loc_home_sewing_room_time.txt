@@ -1,0 +1,3 @@
+Daylight preferred for color matching and cutting
+Evening, task lamp only, machine work rather than cutting
+__loc_time_of_day__

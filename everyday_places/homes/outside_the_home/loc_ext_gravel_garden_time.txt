@@ -1,0 +1,4 @@
+Midday, glare off the gravel, the planting bleached
+Evening, low sun through grasses and seed heads, the best moment by some distance
+Winter, structure and seed heads with frost
+__loc_time_of_day__

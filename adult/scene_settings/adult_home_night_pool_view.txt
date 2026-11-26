@@ -1,0 +1,3 @@
+Eye-level view, a 35mm lens.
+Low view from the floor, a 28mm lens.
+Slightly high view, a 24mm lens.

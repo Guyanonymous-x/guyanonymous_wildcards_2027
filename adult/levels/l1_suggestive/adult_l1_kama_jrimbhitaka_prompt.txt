@@ -1,0 +1,9 @@
+The picture contains two people, Nikolai and Elena. Nikolai is __adult_m_short_named__ Elena is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_wm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Nikolai and Elena. Nikolai is __adult_m_short_named__ Elena is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_wm_long_pose__ __adult_kama_set__.
+The picture contains two people, Nikolai and Elena. Nikolai is __adult_m_short_named__ Elena is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_wm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Kofi and Andrés. Kofi is __adult_m_short_named__ Andrés is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_mm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Kofi and Andrés. Kofi is __adult_m_short_named__ Andrés is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_mm_long_pose__ __adult_kama_set__.
+The picture contains two people, Kofi and Andrés. Kofi is __adult_m_short_named__ Andrés is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_mm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Rania and Daniela. Rania is __adult_w_short_named__ Daniela is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_ww_medium_pose__ __adult_kama_set__.
+The picture contains two people, Rania and Daniela. Rania is __adult_w_short_named__ Daniela is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_ww_long_pose__ __adult_kama_set__.
+The picture contains two people, Rania and Daniela. Rania is __adult_w_short_named__ Daniela is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_jrimbhitaka_ww_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.

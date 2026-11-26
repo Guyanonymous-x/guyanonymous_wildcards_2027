@@ -1,0 +1,2 @@
+a stacked crate
+a cleaning sign reading "__loc_text_caution__"

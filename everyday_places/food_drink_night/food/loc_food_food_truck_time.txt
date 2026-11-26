@@ -1,0 +1,4 @@
+A lunchtime office pitch
+An evening market
+The two-in-the-morning pitch outside a club
+__loc_time_of_day__

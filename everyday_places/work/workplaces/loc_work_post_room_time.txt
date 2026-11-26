@@ -1,0 +1,4 @@
+An early sort before the floor fills
+A midday round with the trolley
+A late collection for the outgoing post
+__loc_time_of_day__

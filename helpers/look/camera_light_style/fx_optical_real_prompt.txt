@@ -1,0 +1,3 @@
+__fx_pair_optical_real_2_subject__ The scene shows two parallel mirrors on a hall wall repeating a doorway into the distance. The effect is __fx_pair_optical_real_2_strength__.
+__fx_pair_optical_real_4_subject__ The scene shows a room with sloped floor and walls so that a person standing at one corner looks much taller than one at the other. The effect is __fx_pair_optical_real_4_strength__.
+__fx_pair_optical_real_8_subject__ The scene shows objects on a table casting a shadow shaped like something else. The effect is __fx_pair_optical_real_8_strength__.

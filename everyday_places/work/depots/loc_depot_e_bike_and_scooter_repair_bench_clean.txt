@@ -1,0 +1,1 @@
+The location is an e-bike and scooter repair bench. Its materials are __loc_depot_e_bike_and_scooter_repair_bench_materials__. __loc_depot_e_bike_and_scooter_repair_bench_light__. __loc_depot_e_bike_and_scooter_repair_bench_signature__.

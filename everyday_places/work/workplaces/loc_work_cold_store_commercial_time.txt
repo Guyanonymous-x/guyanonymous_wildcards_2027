@@ -1,0 +1,3 @@
+The store looks the same at every hour
+The store is lit and cold identically at all times
+__loc_time_of_day__

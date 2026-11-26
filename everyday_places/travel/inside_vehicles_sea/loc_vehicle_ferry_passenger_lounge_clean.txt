@@ -1,0 +1,1 @@
+The location is a ferry passenger lounge. Its materials are __loc_vehicle_ferry_passenger_lounge_materials__. __loc_vehicle_ferry_passenger_lounge_light__. __loc_vehicle_ferry_passenger_lounge_signature__.

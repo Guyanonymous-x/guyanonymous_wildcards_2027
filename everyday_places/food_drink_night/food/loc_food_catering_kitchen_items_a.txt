@@ -1,0 +1,5 @@
+hotel pans
+cambros
+foil
+labels reading "__loc_text_kitchen__"
+linens

@@ -1,0 +1,1 @@
+__loc_odd_floating_market_clean__ The location is __loc_odd_floating_market_condition__. The loose items include __loc_odd_floating_market_items__.

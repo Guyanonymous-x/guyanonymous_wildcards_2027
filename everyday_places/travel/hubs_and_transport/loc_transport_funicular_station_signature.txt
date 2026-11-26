@@ -1,0 +1,3 @@
+The stepped platform matching the car's stepped floor
+The single track with its passing loop
+The gradient

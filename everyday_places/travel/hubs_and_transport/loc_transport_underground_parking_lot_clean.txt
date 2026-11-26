@@ -1,0 +1,1 @@
+The location is an underground parking lot. Its materials are __loc_transport_underground_parking_lot_materials__. __loc_transport_underground_parking_lot_light__. __loc_transport_underground_parking_lot_signature__.

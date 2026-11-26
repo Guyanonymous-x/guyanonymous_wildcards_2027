@@ -1,0 +1,3 @@
+Eye-level view, a 35mm lens.
+High view looking down at the bed, a 28mm lens.
+Eye-level view from the bathroom door, a 24mm lens.

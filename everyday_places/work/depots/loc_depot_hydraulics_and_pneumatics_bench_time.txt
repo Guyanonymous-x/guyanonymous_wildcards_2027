@@ -1,0 +1,6 @@
+A day shift with a queue of cylinders
+A breakdown where a machine is down and a cylinder must be rebuilt today, which is this bench's commonest urgent job
+A hose made over the counter in twenty minutes, which is the trade's cash flow
+An oil sampling round on a plant
+A night call-out to a press or a crane
+__loc_time_of_day__

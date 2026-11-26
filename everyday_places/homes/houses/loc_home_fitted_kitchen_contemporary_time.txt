@@ -1,0 +1,5 @@
+Early, kettle on, breakfast things out, blind still down
+Midday, clear surfaces, post on the island
+Evening, cooktop in use, pans out, wine glass, blind down
+Late, dishwasher running, one under-cabinet light on
+__loc_time_of_day__

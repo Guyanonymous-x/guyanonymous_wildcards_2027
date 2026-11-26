@@ -1,0 +1,3 @@
+__loc_odd_dime_museum_scene__
+__loc_odd_automaton_theater_scene__
+__loc_odd_mechanical_organ_hall_scene__

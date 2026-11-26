@@ -1,0 +1,1 @@
+Flat bright lighting with nothing in shadow, which is a security requirement

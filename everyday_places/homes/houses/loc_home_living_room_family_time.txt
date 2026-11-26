@@ -1,0 +1,5 @@
+Morning, curtains open, toys tidied into baskets, breakfast mug
+Afternoon, toys out across the floor, blinds half down against glare
+Evening, curtains closed, lamps and TV on, throws in use
+Late, one lamp, everything still where it was left
+__loc_time_of_day__

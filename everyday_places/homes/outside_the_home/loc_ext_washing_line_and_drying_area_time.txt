@@ -1,0 +1,5 @@
+Morning, washing goes out
+Midday, full and moving in the wind
+Late afternoon, brought in
+Overnight or in rain, the line is empty and the socket capped
+__loc_time_of_day__

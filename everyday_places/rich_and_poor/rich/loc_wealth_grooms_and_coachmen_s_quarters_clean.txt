@@ -1,0 +1,1 @@
+The location is a grooms' and coachmen's quarters. Its materials are __loc_wealth_grooms_and_coachmen_s_quarters_materials__. __loc_wealth_grooms_and_coachmen_s_quarters_light__. __loc_wealth_grooms_and_coachmen_s_quarters_signature__.

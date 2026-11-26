@@ -1,0 +1,4 @@
+Morning, the hoist in use, carers present
+Day, independent use, powerchair in motion
+Evening, chair charging by the door for the morning
+__loc_time_of_day__

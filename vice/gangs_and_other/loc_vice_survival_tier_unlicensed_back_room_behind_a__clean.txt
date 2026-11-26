@@ -1,0 +1,1 @@
+The location is a survival tier, unlicensed back room behind a phone shop. Its materials are __loc_vice_survival_tier_unlicensed_back_room_behind_a__materials__. __loc_vice_survival_tier_unlicensed_back_room_behind_a__light__. __loc_vice_survival_tier_unlicensed_back_room_behind_a__signature__.

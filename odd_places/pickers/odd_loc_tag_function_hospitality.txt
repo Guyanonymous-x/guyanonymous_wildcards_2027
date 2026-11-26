@@ -1,0 +1,3 @@
+__loc_odd_stagecoach_relay_station_scene__
+__loc_odd_camel_caravanserai_scene__
+__loc_odd_ice_hotel_scene__

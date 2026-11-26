@@ -1,0 +1,2 @@
+Inside, the river looks the same at every hour, rising hours after rain falls on the surface
+__loc_time_of_day__

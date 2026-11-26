@@ -1,0 +1,2 @@
+__loc_health_care_home_lounge_scene__
+__loc_health_cottage_hospital_scene__

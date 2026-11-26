@@ -1,0 +1,1 @@
+The location is a crane cab. Its materials are __loc_vehicle_crane_cab_materials__. __loc_vehicle_crane_cab_light__. __loc_vehicle_crane_cab_signature__.

@@ -1,0 +1,1 @@
+__loc_bath_spa_bathhouse_washroom_clean__ __loc_bath_spa_bathhouse_washroom_region_look__. The loose items include __loc_bath_spa_bathhouse_washroom_items__.

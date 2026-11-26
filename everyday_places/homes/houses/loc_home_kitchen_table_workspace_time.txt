@@ -1,0 +1,5 @@
+Morning, work set up around breakfast debris
+Midday, cleared for lunch and reinstated after
+Evening, packed away entirely for dinner, or abandoned mid-task
+Weekend, the table is a table again
+__loc_time_of_day__

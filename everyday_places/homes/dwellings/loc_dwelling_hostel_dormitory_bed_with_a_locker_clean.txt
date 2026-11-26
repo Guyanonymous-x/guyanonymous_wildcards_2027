@@ -1,0 +1,1 @@
+The location is a hostel dormitory bed with a locker. Its materials are __loc_dwelling_hostel_dormitory_bed_with_a_locker_materials__. __loc_dwelling_hostel_dormitory_bed_with_a_locker_light__. __loc_dwelling_hostel_dormitory_bed_with_a_locker_signature__. On view is __loc_dwelling_hostel_dormitory_bed_with_a_locker_sign__.

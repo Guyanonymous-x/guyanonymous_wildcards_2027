@@ -1,0 +1,1 @@
+The location is a holiday-let interior. Its materials are __loc_home_holiday_let_interior_materials__, and the palette is __loc_home_holiday_let_interior_palette__. __loc_home_holiday_let_interior_light__. __loc_home_holiday_let_interior_signature__. On view is __loc_home_holiday_let_interior_sign__.

@@ -1,0 +1,1 @@
+__loc_transport_parking_lot_multi_story_clean__ The location is __loc_transport_parking_lot_multi_story_condition__. The loose items include __loc_transport_parking_lot_multi_story_items__.

@@ -1,0 +1,1 @@
+The location is a delivery room. Its materials are __loc_health_delivery_room_materials__. __loc_health_delivery_room_light__. __loc_health_delivery_room_signature__.

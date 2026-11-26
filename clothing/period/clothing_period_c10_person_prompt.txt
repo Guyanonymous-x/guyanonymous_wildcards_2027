@@ -1,0 +1,9 @@
+The picture contains one person, Zahra. Zahra is __f_create_random_woman_short_named__ Zahra wears __clothing_period_c10_prompt__.
+The picture contains one person, Zahra. Zahra is __f_create_random_woman_short_named__ Zahra wears __clothing_period_c10_mix_prompt__.
+The picture contains one person, Zahra. Zahra is __f_create_random_woman_short_named__ Zahra wears __clothing_period_c10_garment__, with __clothing_period_c10_head__ on her head and __clothing_period_c10_foot__ on her feet, and __clothing_period_c10_jewel__. Zahra carries __clothing_period_c10_bag__. Zahra's clothes are in the fashion of the 10th century CE.
+The picture contains one person, Dariush. Dariush is __m_create_random_man_short_named__ Dariush wears __clothing_period_c10_prompt__.
+The picture contains one person, Dariush. Dariush is __m_create_random_man_short_named__ Dariush wears __clothing_period_c10_mix_prompt__.
+The picture contains one person, Dariush. Dariush is __m_create_random_man_short_named__ Dariush wears __clothing_period_c10_garment__, with __clothing_period_c10_head__ on his head and __clothing_period_c10_foot__ on his feet, and __clothing_period_c10_jewel__. Dariush carries __clothing_period_c10_bag__. Dariush's clothes are in the fashion of the 10th century CE.
+The picture contains one person, Deniz. Deniz is __any_create_random_person_short_named__ Deniz wears __clothing_period_c10_prompt__.
+The picture contains one person, Deniz. Deniz is __any_create_random_person_short_named__ Deniz wears __clothing_period_c10_mix_prompt__.
+The picture contains one person, Deniz. Deniz is __any_create_random_person_short_named__ Deniz wears __clothing_period_c10_garment__, with __clothing_period_c10_head__ on Deniz's head and __clothing_period_c10_foot__ on Deniz's feet, and __clothing_period_c10_jewel__. Deniz carries __clothing_period_c10_bag__. Deniz's clothes are in the fashion of the 10th century CE.

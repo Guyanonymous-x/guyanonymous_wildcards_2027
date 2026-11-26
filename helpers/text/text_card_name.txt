@@ -1,0 +1,2 @@
+"__name_person__"
+"__name_hero__"

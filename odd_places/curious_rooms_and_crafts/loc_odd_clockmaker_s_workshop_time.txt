@@ -1,0 +1,2 @@
+The hour strike of several clocks at once marks the passing of each hour
+__loc_time_of_day__

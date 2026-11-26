@@ -1,0 +1,3 @@
+Blacked out by design
+Lights on and camera up, or everything dark but a standby LED
+__loc_time_of_day__

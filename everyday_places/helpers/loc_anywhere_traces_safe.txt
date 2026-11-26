@@ -1,0 +1,166 @@
+a bald velcro patch
+a bench plaque
+a bench with a memorial plaque reading "IN MEMORY OF __name_first_world__ __name_surname_world__" __text_look_brass__
+a bench worn
+a bench worn at one end
+a biscuit tin
+a boardwalk laid
+a book face-down
+a boot print
+a bungee instead of a catch
+a candle burned down
+a canopy polish arc
+a cardigan left
+a chair
+a chair positioned
+a chair pulled out
+a chair pushed back
+a chair worn
+a chalk arrow somebody drew for the way out
+a chalk cut line
+a chalk mark
+a chalk mark on a fridge door
+a chart annotated
+a cleaned mark that still shows
+a condensation smear
+a condensation smear at head height
+a crew photograph in a locker
+a crumb in the keyboard
+a crumb scatter
+a crumb trail
+a cup left
+a cup ring
+a curtain hooked with a hairband
+a cushion dented
+a dent in the visitor's chair
+a desk edge worn
+a dog hair layer
+a dog's blanket
+a dongle on a lanyard
+a doorstep
+a flask
+a flask and a mug
+a flattened cushion in the forward-facing window seats
+a folded newspaper with the masthead "__name_newspaper__" in bold black print showing
+a glove dropped
+a half-finished drink
+a hand-polish on the door grab
+a hand-polish on the door grab rail
+a hand-polish on the door rail
+a hand-polish on the handrail
+a hand-polish on the poles
+a handed-down seat cushion
+a handwheel polished
+a headset with the name "__name_first__" on it
+a label corrected to read "__text_box_label__" __text_look_marker__
+a leaflet taken, headed "__text_flyer__" __text_look_print__, the rest of the leaflet plain
+a lipstick mark
+a logbook
+a logbook in many hands
+a logbook in several hands
+a marker-written rotation card
+a mattress compressed in one shape
+a mirror smear at face height
+a mud print in the footwell
+a mug
+a mug ring
+a mug ring on a cabinet top
+a mug ring on a ledge by the door
+a mug ring on the console
+a mug ring on the desk
+a mug with the name "__name_first__" on it
+a napkin dropped
+a note taped to a bezel, reading "__text_note__" __text_look_handwriting__, the rest of the note plain
+a noticeboard layered with sheets reading "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain white
+a path worn to it
+a pen on a string
+a pencil on a string
+a photograph inside a locker door
+a photograph left behind
+a photograph taped up
+a plant kept alive
+a pot left mid-potting
+a propped door
+a propped fire door
+a radio on a shelf
+a refolded towel
+a register in successive hands
+a ring on the table
+a robe over a hook
+a rota pinned to a board
+a rota taped to a door
+a rota with names such as "__name_first__"
+a saddle shaped to one rider
+a salt film inside the glass
+a scuff at trolley height
+a seat with the bolster gone on the exit side
+a seat worn
+a service sticker with dates reading "NEXT SERVICE __name_year__" in black print on a white sticker
+a shelf label corrected to read "__name_price__" __text_look_marker__
+a shelf worn
+a shoe scuff on the seat lip
+a socket weighting a manual
+a sooty handprint on the scuttle
+a stair worn in the center of each tread
+a stile worn hollow
+a stool worn in one spot
+a stove hearth
+a tally
+a tape band on a gauge
+a taped cable run
+a taped photograph
+a towel on the bench
+a towel over the screen
+a tripod foot mark
+a trolley abandoned
+a walkway worn
+a whiteboard with first names such as "__name_first__"
+a worn counter
+a worn driver's seat bolster
+a worn headphone pad
+a worn nosing at the doors
+a worn patch on the chair arm
+a worn path
+a worn step
+an oil ring on a bench
+ash in a corner
+bark debris by the stove
+binoculars with worn eyecups
+boots by the door
+brushes standing in water
+chinagraph marks part erased
+cigarette ends in a pot
+cushions crushed
+fingerprints on the glass
+footprints filling with water
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__
+grease at every sheave
+gum
+handprints on the glass
+labels reading "__text_box_label__" in faded pencil
+labels reading "__text_box_label__" in handwriting
+pins in the carpet
+plants on the window ledge
+polish on the handrail
+rings on the table
+scuffs at trolley height
+shavings underfoot
+steps worn
+the aisle worn
+the chair's arm worn where hands grip
+the couch paper torn off
+the counter worn
+the handrail polished
+the name "__name_first__" scratched
+the name "__name_surname__" on a locker
+the pad stained
+the pit edges worn
+the pits worn
+the seating worn
+the stamp pad worn
+the tray worn
+the window track worn
+tire marks
+two chip repairs
+two exhausted pin sizes
+weeds in the joints

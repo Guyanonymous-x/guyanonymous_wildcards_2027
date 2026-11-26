@@ -1,0 +1,6 @@
+__adult_l1_costume_prompt__
+__adult_l2_costume_prompt__
+__adult_l3_costume_prompt__
+__adult_l4_costume_prompt__
+__adult_l5_costume_prompt__
+__adult_l6_costume_prompt__

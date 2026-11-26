@@ -1,0 +1,5 @@
+Loading, marshaled by crew with torches and hand signals, engines running, the worst air quality on the ship
+The crossing, locked, empty of people, lit
+Unloading, engines starting in sequence and the ramp going down
+Overnight, the same but with headlights
+__loc_time_of_day__

@@ -1,0 +1,5 @@
+Day shift, full, the queue counter moving
+Late evening, the busiest hours in many services, with the queue at its worst
+Three in the morning, half the desks dark, two operators, the wall screens still bright
+Handover, twice the people, standing behind chairs
+__loc_time_of_day__

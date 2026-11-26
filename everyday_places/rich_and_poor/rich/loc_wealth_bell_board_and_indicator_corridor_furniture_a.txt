@@ -1,0 +1,5 @@
+a board of thirty-two spring bells with cranks and labels reading "__loc_text_label__"
+an electric indicator with thirty-two pendulums
+a trembler bell
+a step ladder
+spare springs and a crank key

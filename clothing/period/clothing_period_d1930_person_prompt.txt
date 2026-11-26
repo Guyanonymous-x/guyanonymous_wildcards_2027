@@ -1,0 +1,9 @@
+The picture contains one person, Mei. Mei is __f_create_random_woman_short_named__ Mei wears __clothing_period_d1930_prompt__.
+The picture contains one person, Mei. Mei is __f_create_random_woman_short_named__ Mei wears __clothing_period_d1930_mix_prompt__.
+The picture contains one person, Mei. Mei is __f_create_random_woman_short_named__ Mei wears __clothing_period_d1930_garment__, with __clothing_period_d1930_head__ on her head and __clothing_period_d1930_foot__ on her feet, and __clothing_period_d1930_jewel__. Mei carries __clothing_period_d1930_bag__. Mei's clothes are in the fashion of the 1930s.
+The picture contains one person, Ramil. Ramil is __m_create_random_man_short_named__ Ramil wears __clothing_period_d1930_prompt__.
+The picture contains one person, Ramil. Ramil is __m_create_random_man_short_named__ Ramil wears __clothing_period_d1930_mix_prompt__.
+The picture contains one person, Ramil. Ramil is __m_create_random_man_short_named__ Ramil wears __clothing_period_d1930_garment__, with __clothing_period_d1930_head__ on his head and __clothing_period_d1930_foot__ on his feet, and __clothing_period_d1930_jewel__. Ramil carries __clothing_period_d1930_bag__. Ramil's clothes are in the fashion of the 1930s.
+The picture contains one person, Rizki. Rizki is __any_create_random_person_short_named__ Rizki wears __clothing_period_d1930_prompt__.
+The picture contains one person, Rizki. Rizki is __any_create_random_person_short_named__ Rizki wears __clothing_period_d1930_mix_prompt__.
+The picture contains one person, Rizki. Rizki is __any_create_random_person_short_named__ Rizki wears __clothing_period_d1930_garment__, with __clothing_period_d1930_head__ on Rizki's head and __clothing_period_d1930_foot__ on Rizki's feet, and __clothing_period_d1930_jewel__. Rizki carries __clothing_period_d1930_bag__. Rizki's clothes are in the fashion of the 1930s.

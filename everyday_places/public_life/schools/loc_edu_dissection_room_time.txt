@@ -1,0 +1,8 @@
+Seven, technicians preparing and uncovering to a planned schedule
+Nine, a teaching session with sixteen tables and a demonstrator at each pair
+Midday, covered and the extract running
+Two, a small group session with prosections only
+Five, covering, logging and the cold store
+The evening, the room locked, lit at a low level, which runs continuously
+The week of the memorial service, chairs set out and the tables removed
+__loc_time_of_day__

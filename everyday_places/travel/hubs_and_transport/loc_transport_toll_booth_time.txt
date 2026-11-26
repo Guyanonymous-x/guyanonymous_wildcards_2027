@@ -1,0 +1,3 @@
+Traffic peaks determine staffing, with lanes opened and closed
+Overnight a single booth stays staffed
+__loc_time_of_day__

@@ -1,0 +1,3 @@
+The unit runs a long day and closes in the evening
+Patients arrive at staggered times and the room fills through the morning
+__loc_time_of_day__

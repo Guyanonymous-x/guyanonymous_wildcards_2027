@@ -1,0 +1,4 @@
+set and empty before service
+mid-service full
+a shabby diner
+a grand hotel dining room

@@ -1,0 +1,1 @@
+Diffuse daylight through the roof panel only

@@ -1,0 +1,9 @@
+The picture contains one person, Ewa. Ewa is __f_create_random_woman_short_named__ Ewa wears __clothing_period_d1900_prompt__.
+The picture contains one person, Ewa. Ewa is __f_create_random_woman_short_named__ Ewa wears __clothing_period_d1900_mix_prompt__.
+The picture contains one person, Ewa. Ewa is __f_create_random_woman_short_named__ Ewa wears __clothing_period_d1900_garment__, with __clothing_period_d1900_head__ on her head and __clothing_period_d1900_foot__ on her feet, and __clothing_period_d1900_jewel__. Ewa carries __clothing_period_d1900_bag__. Ewa's clothes are in the fashion of the 1900s.
+The picture contains one person, Tenoch. Tenoch is __m_create_random_man_short_named__ Tenoch wears __clothing_period_d1900_prompt__.
+The picture contains one person, Tenoch. Tenoch is __m_create_random_man_short_named__ Tenoch wears __clothing_period_d1900_mix_prompt__.
+The picture contains one person, Tenoch. Tenoch is __m_create_random_man_short_named__ Tenoch wears __clothing_period_d1900_garment__, with __clothing_period_d1900_head__ on his head and __clothing_period_d1900_foot__ on his feet, and __clothing_period_d1900_jewel__. Tenoch carries __clothing_period_d1900_bag__. Tenoch's clothes are in the fashion of the 1900s.
+The picture contains one person, Ha-neul. Ha-neul is __any_create_random_person_short_named__ Ha-neul wears __clothing_period_d1900_prompt__.
+The picture contains one person, Ha-neul. Ha-neul is __any_create_random_person_short_named__ Ha-neul wears __clothing_period_d1900_mix_prompt__.
+The picture contains one person, Ha-neul. Ha-neul is __any_create_random_person_short_named__ Ha-neul wears __clothing_period_d1900_garment__, with __clothing_period_d1900_head__ on Ha-neul's head and __clothing_period_d1900_foot__ on Ha-neul's feet, and __clothing_period_d1900_jewel__. Ha-neul carries __clothing_period_d1900_bag__. Ha-neul's clothes are in the fashion of the 1900s.

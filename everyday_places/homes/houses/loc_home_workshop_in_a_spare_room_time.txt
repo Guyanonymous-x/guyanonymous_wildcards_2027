@@ -1,0 +1,3 @@
+Evenings and weekends, the room's working hours
+Window open in summer for fumes, shut in winter with the extractor on
+__loc_time_of_day__

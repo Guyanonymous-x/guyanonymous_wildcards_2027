@@ -1,0 +1,12 @@
+a trolley of reduced plants with handwritten price stickers reading "__text_price_tag__"
+a watering can left in an aisle
+a plant label reading "__loc_text_plant__" in the wrong pot
+a dropped leaf trail
+a robin that lives in the covered area
+a mug on a shelf
+a hose coiled and leaking slightly
+a child's toy
+a wasp at the sugar in the cafe
+a seed packet printed "TOMATOES" __text_look_print__ with the corner torn
+a wheelbarrow used as a display
+a cat asleep in a planter

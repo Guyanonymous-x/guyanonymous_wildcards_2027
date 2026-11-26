@@ -1,0 +1,5 @@
+bays marked at an angle suited to the circulation direction
+height restriction barriers at the entrance
+open sides with mesh infill or full cladding
+drainage falls to gullies
+a barrier at exit

@@ -1,0 +1,1 @@
+The location is a riser cupboard. Its materials are __loc_work_riser_cupboard_materials__. __loc_work_riser_cupboard_light__. __loc_work_riser_cupboard_signature__.

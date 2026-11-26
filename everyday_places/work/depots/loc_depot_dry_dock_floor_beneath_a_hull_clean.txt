@@ -1,0 +1,1 @@
+The location is a dry dock floor beneath a hull. Its materials are __loc_depot_dry_dock_floor_beneath_a_hull_materials__. __loc_depot_dry_dock_floor_beneath_a_hull_light__. __loc_depot_dry_dock_floor_beneath_a_hull_signature__.

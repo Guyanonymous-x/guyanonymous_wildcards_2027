@@ -1,0 +1,3 @@
+The hall looks the same at every hour under its fixed lights
+The museum is internally lit and the figures do not change
+__loc_time_of_day__

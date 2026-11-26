@@ -1,0 +1,1 @@
+The location is a projection booth. Its materials are __loc_culture_projection_booth_materials__. __loc_culture_projection_booth_light__. __loc_culture_projection_booth_signature__.

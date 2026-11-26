@@ -1,0 +1,3 @@
+__loc_circ_hospital_corridor_time_scene__
+__loc_circ_hospital_stair_core_time_scene__
+__loc_circ_hospital_ward_entrance_lobby_time_scene__

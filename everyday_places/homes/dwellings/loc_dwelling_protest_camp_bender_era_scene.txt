@@ -1,0 +1,1 @@
+__loc_dwelling_protest_camp_bender_clean__ The location is __loc_dwelling_protest_camp_bender_condition__. The loose items include __loc_dwelling_protest_camp_bender_items__.

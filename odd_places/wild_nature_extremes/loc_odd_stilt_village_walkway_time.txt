@@ -1,0 +1,3 @@
+Fishing boats leave before dawn and return mid-morning
+The walkway is busiest then and in the cool of the evening
+__loc_time_of_day__

@@ -1,0 +1,3 @@
+The water butt looks the same at every hour of the day
+Full after rain and low in drought is the real variable
+__loc_time_of_day__

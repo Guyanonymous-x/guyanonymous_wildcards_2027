@@ -1,0 +1,5 @@
+__loc_odd_observatory_scene__
+__loc_odd_control_room_with_dials_scene__
+__loc_odd_concealed_darkroom_scene__
+__loc_odd_safe_room_scene__
+__loc_odd_ice_hotel_scene__

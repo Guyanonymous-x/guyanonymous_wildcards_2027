@@ -1,0 +1,1 @@
+The location is a peat bog with cut banks. Its materials are __loc_outdoor_peat_bog_with_cut_banks_materials__. __loc_outdoor_peat_bog_with_cut_banks_light__. __loc_outdoor_peat_bog_with_cut_banks_signature__.

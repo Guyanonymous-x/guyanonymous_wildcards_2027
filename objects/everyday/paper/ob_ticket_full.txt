@@ -1,0 +1,1 @@
+__ob_ticket_period__, __ob_era_condition_soft__, __ob_ticket_text__

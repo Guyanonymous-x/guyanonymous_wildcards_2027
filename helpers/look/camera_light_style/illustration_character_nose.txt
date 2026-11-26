@@ -1,0 +1,6 @@
+realistic noses
+simple hooked line noses
+dot noses
+triangle noses
+a smooth flat plane at the middle of each face
+bulbous noses

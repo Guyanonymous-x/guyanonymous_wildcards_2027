@@ -1,0 +1,3 @@
+Fully exposed in section, so the remaining rooms are lit from the side they have lost
+The stair core dark at every hour
+__loc_time_of_day__

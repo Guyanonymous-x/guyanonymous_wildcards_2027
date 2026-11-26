@@ -1,0 +1,2 @@
+Heavy maintenance runs around the clock because the aircraft is not earning while it is in the hangar, which makes night shifts standard
+__loc_time_of_day__

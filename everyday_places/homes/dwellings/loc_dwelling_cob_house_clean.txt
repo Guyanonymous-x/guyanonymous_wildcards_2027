@@ -1,0 +1,1 @@
+The location is a cob house. Its materials are __loc_dwelling_cob_house_materials__. __loc_dwelling_cob_house_light__. __loc_dwelling_cob_house_signature__.

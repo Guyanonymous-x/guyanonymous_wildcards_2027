@@ -1,0 +1,5 @@
+Morning, one person, cereal
+Evening, several people, TV on
+Weekend, the table covered in a project
+Night, empty, lights off
+__loc_time_of_day__

@@ -1,0 +1,2 @@
+Dye baths run to time and temperature rather than the clock
+__loc_time_of_day__

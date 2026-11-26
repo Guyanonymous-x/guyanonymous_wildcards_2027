@@ -1,0 +1,1 @@
+Made of __ob_vest_material__ __ob_vest_era__, __ob_vest_wear__, with __ob_vest_detail__, and in __ob_colour__, __ob_vest_type__

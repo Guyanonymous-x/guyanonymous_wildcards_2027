@@ -1,0 +1,1 @@
+the brand color of the postal service, red or yellow on every sign reading "__loc_text_post__"

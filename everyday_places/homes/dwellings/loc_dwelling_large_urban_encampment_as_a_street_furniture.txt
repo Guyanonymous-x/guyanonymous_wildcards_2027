@@ -1,0 +1,10 @@
+rows of tents and built structures
+a pallet boardwalk
+an entrance name board reading "__name_town__"
+a generator and cable runs
+a water point
+portable lavatories
+a trash bank
+a notice board pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
+a scaffold bike rack
+dividing tarpaulins

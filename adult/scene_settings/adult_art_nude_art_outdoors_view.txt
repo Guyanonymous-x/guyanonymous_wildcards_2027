@@ -1,0 +1,3 @@
+Eye-level view, a 50mm lens.
+Low view from the ground, a 28mm lens.
+Wide view from a rise, a 35mm lens.

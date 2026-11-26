@@ -1,0 +1,4 @@
+Day, blind up, desk in use
+Evening, door propped for sociability or shut firmly
+Night, laptop light
+__loc_time_of_day__

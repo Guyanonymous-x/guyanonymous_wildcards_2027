@@ -1,0 +1,3 @@
+__condition_object_prompt__
+__condition_book_prompt__
+__condition_statue_prompt__

@@ -1,0 +1,2 @@
+The hall looks the same at every hour of the day and night
+__loc_time_of_day__

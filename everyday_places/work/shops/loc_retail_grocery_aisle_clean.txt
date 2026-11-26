@@ -1,0 +1,1 @@
+The location is a grocery aisle. Its materials are __loc_retail_grocery_aisle_materials__, and the palette is __loc_retail_grocery_aisle_palette__. __loc_retail_grocery_aisle_light__. __loc_retail_grocery_aisle_signature__. On view is __loc_retail_grocery_aisle_sign__.

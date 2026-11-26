@@ -1,0 +1,2 @@
+__loc_retail_pharmacy_scene__
+__loc_retail_optometrist_scene__

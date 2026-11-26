@@ -1,0 +1,4 @@
+Morning, breakfast laid, sun across the table
+Midday, cleared, laptop open
+Evening, homework or cards, lamp on
+__loc_time_of_day__

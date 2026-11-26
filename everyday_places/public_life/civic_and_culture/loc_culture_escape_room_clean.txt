@@ -1,0 +1,1 @@
+The location is an escape room. Its materials are __loc_culture_escape_room_materials__. __loc_culture_escape_room_light__. __loc_culture_escape_room_signature__.

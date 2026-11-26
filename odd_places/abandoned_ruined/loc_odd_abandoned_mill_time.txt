@@ -1,0 +1,4 @@
+Daylight only, moving across the floor through the holes in the roof
+Nothing at night
+The hoist door framing a bright rectangle at midday
+__loc_time_of_day__

@@ -1,0 +1,3 @@
+a rank shelter
+a sign reading "Taxi"
+a drivers' hut at some ranks

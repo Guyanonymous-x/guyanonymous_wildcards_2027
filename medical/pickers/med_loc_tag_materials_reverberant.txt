@@ -1,0 +1,2 @@
+__loc_health_mass_vaccination_center_scene__
+__loc_health_nightingale_ward_scene__

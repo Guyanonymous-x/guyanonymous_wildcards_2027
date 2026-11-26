@@ -1,0 +1,2 @@
+__age25_29_pose_weight__
+__age30_34_pose_weight__

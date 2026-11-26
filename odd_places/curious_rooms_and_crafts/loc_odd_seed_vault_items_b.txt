@@ -1,0 +1,3 @@
+barcode labels reading "__loc_text_label__"
+gloves
+an inventory printout

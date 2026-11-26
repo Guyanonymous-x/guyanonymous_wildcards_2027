@@ -1,0 +1,1 @@
+The location is a ballroom. Its materials are __loc_food_ballroom_materials__. __loc_food_ballroom_light__. __loc_food_ballroom_signature__.

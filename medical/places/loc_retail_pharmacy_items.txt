@@ -1,0 +1,12 @@
+pill bottles labeled "__name_first__ __name_surname__" __text_look_label__
+blister packs
+prescription slips in a tray
+printed labels reading "__loc_text_pharmacy__"
+bandages
+thermometers
+cough syrup
+vitamins
+reading glasses on a spinner
+first aid kits
+cotton wool
+a repeat prescription form

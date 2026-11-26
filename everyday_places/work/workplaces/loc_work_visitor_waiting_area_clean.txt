@@ -1,0 +1,1 @@
+The location is a visitor waiting area. Its materials are __loc_work_visitor_waiting_area_materials__. __loc_work_visitor_waiting_area_light__. __loc_work_visitor_waiting_area_signature__.

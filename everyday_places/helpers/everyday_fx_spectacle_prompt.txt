@@ -1,0 +1,4 @@
+__fx_magic_spectacle_prompt__
+__fx_miraculous_spectacle_prompt__
+__fx_cultural_spectacle_prompt__
+__fx_atmosphere_spectacle_prompt__

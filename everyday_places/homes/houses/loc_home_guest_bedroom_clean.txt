@@ -1,0 +1,1 @@
+The location is a guest bedroom. Its materials are __loc_home_guest_bedroom_materials__, and the palette is __loc_home_guest_bedroom_palette__. __loc_home_guest_bedroom_light__. __loc_home_guest_bedroom_signature__.

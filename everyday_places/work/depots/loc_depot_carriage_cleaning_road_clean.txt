@@ -1,0 +1,1 @@
+The location is a carriage cleaning road. Its materials are __loc_depot_carriage_cleaning_road_materials__. __loc_depot_carriage_cleaning_road_light__. __loc_depot_carriage_cleaning_road_signature__.

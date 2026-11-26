@@ -1,0 +1,4 @@
+Morning, boots wet, vegetables delivered
+Afternoon, washing in the sink
+Evening, dark, one bulb, door bolted
+__loc_time_of_day__

@@ -1,0 +1,7 @@
+paper cups
+sleeves
+milk pitchers
+knock box
+syrups
+tip jar
+newspapers with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of each front page plain

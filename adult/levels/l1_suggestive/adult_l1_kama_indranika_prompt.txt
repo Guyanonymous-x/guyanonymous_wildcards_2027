@@ -1,0 +1,9 @@
+The picture contains two people, Rami and Selma. Rami is __adult_m_short_named__ Selma is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_indranika_wm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Rami and Selma. Rami is __adult_m_short_named__ Selma is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_indranika_wm_long_pose__ __adult_kama_set__.
+The picture contains two people, Rami and Selma. Rami is __adult_m_short_named__ Selma is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_indranika_wm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Lars and Diego. Lars is __adult_m_short_named__ Diego is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_indranika_mm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Lars and Diego. Lars is __adult_m_short_named__ Diego is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_indranika_mm_long_pose__ __adult_kama_set__.
+The picture contains two people, Lars and Diego. Lars is __adult_m_short_named__ Diego is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_indranika_mm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Ingrid and Camila. Ingrid is __adult_w_short_named__ Camila is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_indranika_ww_medium_pose__ __adult_kama_set__.
+The picture contains two people, Ingrid and Camila. Ingrid is __adult_w_short_named__ Camila is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_indranika_ww_long_pose__ __adult_kama_set__.
+The picture contains two people, Ingrid and Camila. Ingrid is __adult_w_short_named__ Camila is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_indranika_ww_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.

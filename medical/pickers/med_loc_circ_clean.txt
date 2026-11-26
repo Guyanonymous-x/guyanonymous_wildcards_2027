@@ -1,0 +1,3 @@
+__loc_circ_hospital_corridor_clean__
+__loc_circ_hospital_stair_core_clean__
+__loc_circ_hospital_ward_entrance_lobby_clean__

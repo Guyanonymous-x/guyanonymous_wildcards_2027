@@ -1,0 +1,1 @@
+The location is a dry cleaner. Its materials are __loc_retail_dry_cleaner_materials__. __loc_retail_dry_cleaner_light__. __loc_retail_dry_cleaner_signature__.

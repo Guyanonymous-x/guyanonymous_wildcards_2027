@@ -1,0 +1,1 @@
+Made of __ob_board_material__ __ob_board_era__, __ob_board_wear__, with __ob_board_detail__, and in __ob_colour__, __ob_board_type__

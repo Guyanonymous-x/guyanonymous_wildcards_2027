@@ -1,0 +1,1 @@
+The location is a control room. Its materials are __loc_vehicle_control_room_materials__. __loc_vehicle_control_room_light__. __loc_vehicle_control_room_signature__.

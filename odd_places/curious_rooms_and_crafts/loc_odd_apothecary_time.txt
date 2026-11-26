@@ -1,0 +1,2 @@
+The colored window light moves slowly across the shelves through the day
+__loc_time_of_day__

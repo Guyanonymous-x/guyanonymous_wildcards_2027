@@ -1,0 +1,1 @@
+The location is a dining room floor. Its materials are __loc_food_dining_room_floor_materials__, and the palette is __loc_food_dining_room_floor_palette__. __loc_food_dining_room_floor_light__. __loc_food_dining_room_floor_signature__. On view is __loc_food_dining_room_floor_sign__.

@@ -1,0 +1,9 @@
+The picture contains one person, Leilani. Leilani is __f_create_random_woman_short_named__ Leilani wears __clothing_period_c02_prompt__.
+The picture contains one person, Leilani. Leilani is __f_create_random_woman_short_named__ Leilani wears __clothing_period_c02_mix_prompt__.
+The picture contains one person, Leilani. Leilani is __f_create_random_woman_short_named__ Leilani wears __clothing_period_c02_garment__, with __clothing_period_c02_head__ on her head and __clothing_period_c02_foot__ on her feet, and __clothing_period_c02_jewel__. Leilani carries __clothing_period_c02_bag__. Leilani's clothes are in the fashion of the 2nd century CE.
+The picture contains one person, Kekoa. Kekoa is __m_create_random_man_short_named__ Kekoa wears __clothing_period_c02_prompt__.
+The picture contains one person, Kekoa. Kekoa is __m_create_random_man_short_named__ Kekoa wears __clothing_period_c02_mix_prompt__.
+The picture contains one person, Kekoa. Kekoa is __m_create_random_man_short_named__ Kekoa wears __clothing_period_c02_garment__, with __clothing_period_c02_head__ on his head and __clothing_period_c02_foot__ on his feet, and __clothing_period_c02_jewel__. Kekoa carries __clothing_period_c02_bag__. Kekoa's clothes are in the fashion of the 2nd century CE.
+The picture contains one person, Kai. Kai is __any_create_random_person_short_named__ Kai wears __clothing_period_c02_prompt__.
+The picture contains one person, Kai. Kai is __any_create_random_person_short_named__ Kai wears __clothing_period_c02_mix_prompt__.
+The picture contains one person, Kai. Kai is __any_create_random_person_short_named__ Kai wears __clothing_period_c02_garment__, with __clothing_period_c02_head__ on Kai's head and __clothing_period_c02_foot__ on Kai's feet, and __clothing_period_c02_jewel__. Kai carries __clothing_period_c02_bag__. Kai's clothes are in the fashion of the 2nd century CE.

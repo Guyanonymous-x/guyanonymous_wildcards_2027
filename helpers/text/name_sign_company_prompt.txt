@@ -1,0 +1,5 @@
+A tall office building with large metal letters on its facade reading "__name_company__".
+A brushed steel plaque beside a glass door with the words "__name_company__" on the first line and "__name_address__" on the second line.
+A factory gate with a painted sign reading "__name_company__" on the first line and "__name_tagline__" on the second line.
+A roadside billboard showing "__name_company__" in large letters and "__name_tagline__" beneath it.
+A warehouse wall with big painted letters reading "__name_company__" and a smaller line reading "__name_phone__".

@@ -1,0 +1,1 @@
+__loc_odd_abandoned_subway_station_clean__ The location is __loc_odd_abandoned_subway_station_condition__. The loose items include __loc_odd_abandoned_subway_station_items__.

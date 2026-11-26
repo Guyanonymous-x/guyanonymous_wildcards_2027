@@ -1,0 +1,9 @@
+The picture contains two people, Wiremu and Inés. Wiremu is __adult_m_short_named__ Inés is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_wm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Wiremu and Inés. Wiremu is __adult_m_short_named__ Inés is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_wm_long_pose__ __adult_kama_set__.
+The picture contains two people, Wiremu and Inés. Wiremu is __adult_m_short_named__ Inés is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_wm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Bao and Alan. Bao is __adult_m_short_named__ Alan is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_mm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Bao and Alan. Bao is __adult_m_short_named__ Alan is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_mm_long_pose__ __adult_kama_set__.
+The picture contains two people, Bao and Alan. Bao is __adult_m_short_named__ Alan is __adult_m_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_mm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Wanjiru and Aroha. Wanjiru is __adult_w_short_named__ Aroha is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_ww_medium_pose__ __adult_kama_set__.
+The picture contains two people, Wanjiru and Aroha. Wanjiru is __adult_w_short_named__ Aroha is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_ww_long_pose__ __adult_kama_set__.
+The picture contains two people, Wanjiru and Aroha. Wanjiru is __adult_w_short_named__ Aroha is __adult_w_short_named__ __adult_kama_clothed__. __adult_kama_harinaka_ww_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.

@@ -1,0 +1,10 @@
+hotel pans
+sheet pans
+cambros
+plastic wrap
+foil
+sternos
+labels reading "__loc_text_kitchen__"
+platters
+linens
+transport crates

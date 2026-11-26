@@ -1,0 +1,2 @@
+The bay is full at night with every truck on charge and the building otherwise dark and still
+__loc_time_of_day__

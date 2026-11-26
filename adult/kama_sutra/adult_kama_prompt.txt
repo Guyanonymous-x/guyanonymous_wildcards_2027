@@ -1,0 +1,6 @@
+__adult_l1_kama_prompt__
+__adult_l5_kama_prompt__
+__adult_l6_kama_prompt__
+__adult_l2_kama_prompt__
+__adult_l3_kama_prompt__
+__adult_l4_kama_prompt__

@@ -1,0 +1,5 @@
+Morning, cool, doors shut, condensation on the glass
+Afternoon, blinds down against heat, vents open
+Evening, doors open to the garden, a lamp on, moths at the glass
+Winter, heater on, used briefly
+__loc_time_of_day__

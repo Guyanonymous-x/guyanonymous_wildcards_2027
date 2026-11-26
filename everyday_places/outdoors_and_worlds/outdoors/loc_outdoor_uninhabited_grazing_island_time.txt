@@ -1,0 +1,3 @@
+Nothing human happens here most days
+The weather decides everything, including whether a boat can land at all
+__loc_time_of_day__

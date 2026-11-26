@@ -1,0 +1,3 @@
+a lockable door
+a safe for the most valuable material
+a collection kept in drawers and closed cabinets away from daylight

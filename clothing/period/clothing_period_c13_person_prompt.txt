@@ -1,0 +1,9 @@
+The picture contains one person, Mele. Mele is __f_create_random_woman_short_named__ Mele wears __clothing_period_c13_prompt__.
+The picture contains one person, Mele. Mele is __f_create_random_woman_short_named__ Mele wears __clothing_period_c13_mix_prompt__.
+The picture contains one person, Mele. Mele is __f_create_random_woman_short_named__ Mele wears __clothing_period_c13_garment__, with __clothing_period_c13_head__ on her head and __clothing_period_c13_foot__ on her feet, and __clothing_period_c13_jewel__. Mele carries __clothing_period_c13_bag__. Mele's clothes are in the fashion of the 13th century CE.
+The picture contains one person, Nurlan. Nurlan is __m_create_random_man_short_named__ Nurlan wears __clothing_period_c13_prompt__.
+The picture contains one person, Nurlan. Nurlan is __m_create_random_man_short_named__ Nurlan wears __clothing_period_c13_mix_prompt__.
+The picture contains one person, Nurlan. Nurlan is __m_create_random_man_short_named__ Nurlan wears __clothing_period_c13_garment__, with __clothing_period_c13_head__ on his head and __clothing_period_c13_foot__ on his feet, and __clothing_period_c13_jewel__. Nurlan carries __clothing_period_c13_bag__. Nurlan's clothes are in the fashion of the 13th century CE.
+The picture contains one person, Simran. Simran is __any_create_random_person_short_named__ Simran wears __clothing_period_c13_prompt__.
+The picture contains one person, Simran. Simran is __any_create_random_person_short_named__ Simran wears __clothing_period_c13_mix_prompt__.
+The picture contains one person, Simran. Simran is __any_create_random_person_short_named__ Simran wears __clothing_period_c13_garment__, with __clothing_period_c13_head__ on Simran's head and __clothing_period_c13_foot__ on Simran's feet, and __clothing_period_c13_jewel__. Simran carries __clothing_period_c13_bag__. Simran's clothes are in the fashion of the 13th century CE.

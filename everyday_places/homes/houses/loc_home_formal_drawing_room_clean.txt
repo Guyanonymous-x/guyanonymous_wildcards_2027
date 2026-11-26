@@ -1,0 +1,1 @@
+The location is a formal drawing room. Its materials are __loc_home_formal_drawing_room_materials__. __loc_home_formal_drawing_room_light__. __loc_home_formal_drawing_room_signature__.

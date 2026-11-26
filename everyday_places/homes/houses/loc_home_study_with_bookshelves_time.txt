@@ -1,0 +1,4 @@
+Day, shutters open, work at the desk
+Evening, shutters closed, desk lamp and fire, reading in the armchair
+The room reads as nocturnal by preference
+__loc_time_of_day__

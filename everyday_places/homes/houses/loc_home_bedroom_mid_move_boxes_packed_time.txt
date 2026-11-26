@@ -1,0 +1,4 @@
+Day, packing underway, boxes filling
+Evening, the last night, a mattress on the floor, a lamp on the carpet
+Dawn of moving day, stacked by the door
+__loc_time_of_day__

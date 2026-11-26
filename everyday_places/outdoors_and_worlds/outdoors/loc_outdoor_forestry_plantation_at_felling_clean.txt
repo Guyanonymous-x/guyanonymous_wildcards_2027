@@ -1,0 +1,1 @@
+The location is a forestry plantation at felling. Its materials are __loc_outdoor_forestry_plantation_at_felling_materials__. __loc_outdoor_forestry_plantation_at_felling_light__. __loc_outdoor_forestry_plantation_at_felling_signature__.

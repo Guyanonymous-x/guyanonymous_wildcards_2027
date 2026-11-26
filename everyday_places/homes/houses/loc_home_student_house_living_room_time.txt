@@ -1,0 +1,5 @@
+Day, curtains still closed, nobody up
+Afternoon, laptops out, airer in use
+Night, lights low, music, bottles accumulating
+Morning after, aftermath, curtains still shut
+__loc_time_of_day__

@@ -1,0 +1,3 @@
+__frame_furniture_prompt__
+__frame_room_prompt__
+__frame_building_prompt__

@@ -1,0 +1,2 @@
+__loc_health_seclusion_room_scene__
+__loc_health_place_of_safety_suite_scene__

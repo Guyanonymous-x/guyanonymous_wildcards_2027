@@ -1,0 +1,9 @@
+The picture contains one person, Amara. Amara is __f_create_random_woman_short_named__ Amara wears __clothing_period_pal_prompt__.
+The picture contains one person, Amara. Amara is __f_create_random_woman_short_named__ Amara wears __clothing_period_pal_mix_prompt__.
+The picture contains one person, Amara. Amara is __f_create_random_woman_short_named__ Amara wears __clothing_period_pal_garment__, with __clothing_period_pal_head__ on her head and __clothing_period_pal_foot__ on her feet, and __clothing_period_pal_jewel__. Amara carries __clothing_period_pal_bag__. Amara's clothes are in the fashion of the Palaeolithic (c. 100000 to 10000 BCE).
+The picture contains one person, Kofi. Kofi is __m_create_random_man_short_named__ Kofi wears __clothing_period_pal_prompt__.
+The picture contains one person, Kofi. Kofi is __m_create_random_man_short_named__ Kofi wears __clothing_period_pal_mix_prompt__.
+The picture contains one person, Kofi. Kofi is __m_create_random_man_short_named__ Kofi wears __clothing_period_pal_garment__, with __clothing_period_pal_head__ on his head and __clothing_period_pal_foot__ on his feet, and __clothing_period_pal_jewel__. Kofi carries __clothing_period_pal_bag__. Kofi's clothes are in the fashion of the Palaeolithic (c. 100000 to 10000 BCE).
+The picture contains one person, Alex. Alex is __any_create_random_person_short_named__ Alex wears __clothing_period_pal_prompt__.
+The picture contains one person, Alex. Alex is __any_create_random_person_short_named__ Alex wears __clothing_period_pal_mix_prompt__.
+The picture contains one person, Alex. Alex is __any_create_random_person_short_named__ Alex wears __clothing_period_pal_garment__, with __clothing_period_pal_head__ on Alex's head and __clothing_period_pal_foot__ on Alex's feet, and __clothing_period_pal_jewel__. Alex carries __clothing_period_pal_bag__. Alex's clothes are in the fashion of the Palaeolithic (c. 100000 to 10000 BCE).

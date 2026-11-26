@@ -1,0 +1,3 @@
+The booking panel glowing with a name, "__name_person__", or showing free on each desk
+The complete absence of personal objects
+The locker wall along one wall

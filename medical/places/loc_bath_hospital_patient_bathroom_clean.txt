@@ -1,0 +1,1 @@
+The location is a hospital patient bathroom. Its materials are __loc_bath_hospital_patient_bathroom_materials__. __loc_bath_hospital_patient_bathroom_light__. __loc_bath_hospital_patient_bathroom_signature__.

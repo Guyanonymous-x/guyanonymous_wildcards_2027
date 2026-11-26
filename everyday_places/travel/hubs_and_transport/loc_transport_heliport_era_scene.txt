@@ -1,0 +1,1 @@
+__loc_transport_heliport_clean__ The location is __loc_transport_heliport_condition__. The loose items include __loc_transport_heliport_items__.

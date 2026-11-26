@@ -1,0 +1,7 @@
+The morning, with the fire relit and the kettle on
+The day, with some people out and somebody always there
+The afternoon, firewood and water
+The evening, which is the fire and is this camp's best hour and the reason people stay
+The night, with a dog awake
+The clearance, which comes with notices and vehicles and takes an hour
+__loc_time_of_day__

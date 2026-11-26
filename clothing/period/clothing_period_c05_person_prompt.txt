@@ -1,0 +1,9 @@
+The picture contains one person, Mihaela. Mihaela is __f_create_random_woman_short_named__ Mihaela wears __clothing_period_c05_prompt__.
+The picture contains one person, Mihaela. Mihaela is __f_create_random_woman_short_named__ Mihaela wears __clothing_period_c05_mix_prompt__.
+The picture contains one person, Mihaela. Mihaela is __f_create_random_woman_short_named__ Mihaela wears __clothing_period_c05_garment__, with __clothing_period_c05_head__ on her head and __clothing_period_c05_foot__ on her feet, and __clothing_period_c05_jewel__. Mihaela carries __clothing_period_c05_bag__. Mihaela's clothes are in the fashion of the 5th century CE.
+The picture contains one person, Dragos. Dragos is __m_create_random_man_short_named__ Dragos wears __clothing_period_c05_prompt__.
+The picture contains one person, Dragos. Dragos is __m_create_random_man_short_named__ Dragos wears __clothing_period_c05_mix_prompt__.
+The picture contains one person, Dragos. Dragos is __m_create_random_man_short_named__ Dragos wears __clothing_period_c05_garment__, with __clothing_period_c05_head__ on his head and __clothing_period_c05_foot__ on his feet, and __clothing_period_c05_jewel__. Dragos carries __clothing_period_c05_bag__. Dragos's clothes are in the fashion of the 5th century CE.
+The picture contains one person, Lior. Lior is __any_create_random_person_short_named__ Lior wears __clothing_period_c05_prompt__.
+The picture contains one person, Lior. Lior is __any_create_random_person_short_named__ Lior wears __clothing_period_c05_mix_prompt__.
+The picture contains one person, Lior. Lior is __any_create_random_person_short_named__ Lior wears __clothing_period_c05_garment__, with __clothing_period_c05_head__ on Lior's head and __clothing_period_c05_foot__ on Lior's feet, and __clothing_period_c05_jewel__. Lior carries __clothing_period_c05_bag__. Lior's clothes are in the fashion of the 5th century CE.

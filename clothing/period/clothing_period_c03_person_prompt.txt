@@ -1,0 +1,9 @@
+The picture contains one person, Thandiwe. Thandiwe is __f_create_random_woman_short_named__ Thandiwe wears __clothing_period_c03_prompt__.
+The picture contains one person, Thandiwe. Thandiwe is __f_create_random_woman_short_named__ Thandiwe wears __clothing_period_c03_mix_prompt__.
+The picture contains one person, Thandiwe. Thandiwe is __f_create_random_woman_short_named__ Thandiwe wears __clothing_period_c03_garment__, with __clothing_period_c03_head__ on her head and __clothing_period_c03_foot__ on her feet, and __clothing_period_c03_jewel__. Thandiwe carries __clothing_period_c03_bag__. Thandiwe's clothes are in the fashion of the 3rd century CE.
+The picture contains one person, Sipho. Sipho is __m_create_random_man_short_named__ Sipho wears __clothing_period_c03_prompt__.
+The picture contains one person, Sipho. Sipho is __m_create_random_man_short_named__ Sipho wears __clothing_period_c03_mix_prompt__.
+The picture contains one person, Sipho. Sipho is __m_create_random_man_short_named__ Sipho wears __clothing_period_c03_garment__, with __clothing_period_c03_head__ on his head and __clothing_period_c03_foot__ on his feet, and __clothing_period_c03_jewel__. Sipho carries __clothing_period_c03_bag__. Sipho's clothes are in the fashion of the 3rd century CE.
+The picture contains one person, Sasha. Sasha is __any_create_random_person_short_named__ Sasha wears __clothing_period_c03_prompt__.
+The picture contains one person, Sasha. Sasha is __any_create_random_person_short_named__ Sasha wears __clothing_period_c03_mix_prompt__.
+The picture contains one person, Sasha. Sasha is __any_create_random_person_short_named__ Sasha wears __clothing_period_c03_garment__, with __clothing_period_c03_head__ on Sasha's head and __clothing_period_c03_foot__ on Sasha's feet, and __clothing_period_c03_jewel__. Sasha carries __clothing_period_c03_bag__. Sasha's clothes are in the fashion of the 3rd century CE.

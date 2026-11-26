@@ -1,0 +1,1 @@
+The location is a coastal path on an eroding cliff. Its materials are __loc_outdoor_coastal_path_on_an_eroding_cliff_materials__. __loc_outdoor_coastal_path_on_an_eroding_cliff_light__. __loc_outdoor_coastal_path_on_an_eroding_cliff_signature__.

@@ -1,0 +1,1 @@
+The location is a survival tier, tolerated street-level shop in a permissive city. Its materials are __loc_vice_survival_tier_tolerated_street_level_shop_in_materials__. __loc_vice_survival_tier_tolerated_street_level_shop_in_light__. __loc_vice_survival_tier_tolerated_street_level_shop_in_signature__. On view is __loc_vice_survival_tier_tolerated_street_level_shop_in_sign__.

@@ -1,0 +1,1 @@
+The location is an airport departure lounge. Its materials are __loc_transport_airport_departure_lounge_materials__. __loc_transport_airport_departure_lounge_light__. __loc_transport_airport_departure_lounge_signature__.

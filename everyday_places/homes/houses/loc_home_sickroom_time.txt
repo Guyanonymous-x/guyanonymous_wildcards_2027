@@ -1,0 +1,4 @@
+Day, curtains half open, a tray brought in and half eaten
+Evening, lamp on, the chair occupied
+Night, near dark, the door ajar with landing light beyond
+__loc_time_of_day__

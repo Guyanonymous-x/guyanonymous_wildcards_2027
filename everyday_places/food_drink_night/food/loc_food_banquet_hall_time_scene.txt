@@ -1,0 +1,1 @@
+__loc_food_banquet_hall_scene__ __loc_food_banquet_hall_time__.

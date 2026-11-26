@@ -1,0 +1,1 @@
+The location is an ambulance control room. Its materials are __loc_health_ambulance_control_room_materials__. __loc_health_ambulance_control_room_light__. __loc_health_ambulance_control_room_signature__.

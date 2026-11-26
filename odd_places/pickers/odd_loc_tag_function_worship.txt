@@ -1,0 +1,4 @@
+__loc_odd_minaret_stair_scene__
+__loc_odd_ossuary_chapel_scene__
+__loc_odd_hilltop_chapel_in_fog_scene__
+__loc_odd_hidden_chapel_scene__

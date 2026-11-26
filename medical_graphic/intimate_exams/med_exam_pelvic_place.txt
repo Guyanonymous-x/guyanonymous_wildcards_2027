@@ -1,0 +1,2 @@
+The location is an outpatient clinic room.
+The location is a treatment room.

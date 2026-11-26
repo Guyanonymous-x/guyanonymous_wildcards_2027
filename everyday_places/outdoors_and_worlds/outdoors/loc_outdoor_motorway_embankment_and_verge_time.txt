@@ -1,0 +1,4 @@
+Daylight, nobody present
+Night, the carriageway lit and the verge black, with foxes, deer and badgers using it as a corridor
+During works, a lane closed, cones, a crew in hi-vis and vehicles on the verge itself
+__loc_time_of_day__

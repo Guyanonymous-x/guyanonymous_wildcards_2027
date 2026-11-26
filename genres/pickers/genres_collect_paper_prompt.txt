@@ -1,0 +1,1 @@
+__graded_comic_prompt__

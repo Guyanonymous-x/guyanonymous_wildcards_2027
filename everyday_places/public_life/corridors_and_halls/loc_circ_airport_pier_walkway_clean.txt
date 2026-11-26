@@ -1,0 +1,1 @@
+The location is an airport pier walkway. Its materials are __loc_circ_airport_pier_walkway_materials__. __loc_circ_airport_pier_walkway_light__. __loc_circ_airport_pier_walkway_signature__.

@@ -1,0 +1,1 @@
+__ob_microphone_period__, __ob_era_condition__

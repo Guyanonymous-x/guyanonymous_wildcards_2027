@@ -1,0 +1,4 @@
+The location is a GP consulting room.
+The location is an outpatient clinic room.
+The location is a pharmacy consultation room.
+The location is a pre-operative assessment.

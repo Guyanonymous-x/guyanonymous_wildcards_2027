@@ -1,0 +1,8 @@
+charts
+binoculars
+a logbook
+ration tins
+a kettle
+a radio handset
+rust flakes
+a torch

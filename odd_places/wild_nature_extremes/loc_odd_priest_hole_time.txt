@@ -1,0 +1,2 @@
+The hiding place is dark at every hour
+__loc_time_of_day__

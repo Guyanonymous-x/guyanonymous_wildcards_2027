@@ -1,0 +1,1 @@
+__ob_trophy_type__, __ob_trophy_detail__

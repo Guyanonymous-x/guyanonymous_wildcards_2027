@@ -1,0 +1,8 @@
+display vehicles
+a turntable platform
+salespeople's desks
+a waiting lounge
+a coffee machine
+a children's corner
+a service reception desk
+rotating signage reading "__name_brand__"

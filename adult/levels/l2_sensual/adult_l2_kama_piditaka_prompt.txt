@@ -1,0 +1,9 @@
+The picture contains two people, Vikram and Ngozi. Vikram is __adult_m_short_named__ Ngozi is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_wm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Vikram and Ngozi. Vikram is __adult_m_short_named__ Ngozi is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_wm_long_pose__ __adult_kama_set__.
+The picture contains two people, Vikram and Ngozi. Vikram is __adult_m_short_named__ Ngozi is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_wm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Hakan and Rafael. Hakan is __adult_m_short_named__ Rafael is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_mm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Hakan and Rafael. Hakan is __adult_m_short_named__ Rafael is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_mm_long_pose__ __adult_kama_set__.
+The picture contains two people, Hakan and Rafael. Hakan is __adult_m_short_named__ Rafael is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_mm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Freya and Ximena. Freya is __adult_w_short_named__ Ximena is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_ww_medium_pose__ __adult_kama_set__.
+The picture contains two people, Freya and Ximena. Freya is __adult_w_short_named__ Ximena is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_ww_long_pose__ __adult_kama_set__.
+The picture contains two people, Freya and Ximena. Freya is __adult_w_short_named__ Ximena is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_piditaka_ww_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.

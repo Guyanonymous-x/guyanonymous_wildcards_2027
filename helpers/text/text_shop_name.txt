@@ -1,0 +1,3 @@
+"__name_shop__"
+"__name_business__"
+"__name_restaurant__"

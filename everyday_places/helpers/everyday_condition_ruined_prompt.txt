@@ -1,0 +1,2 @@
+__condition_building_heavy_prompt__
+__condition_furniture_heavy_prompt__

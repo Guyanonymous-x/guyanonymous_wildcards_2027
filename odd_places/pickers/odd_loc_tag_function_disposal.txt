@@ -1,0 +1,6 @@
+__loc_odd_catacombs_scene__
+__loc_odd_ship_breaking_yard_scene__
+__loc_odd_charnel_house_scene__
+__loc_odd_sky_burial_platform_scene__
+__loc_odd_funeral_pyre_ghat_scene__
+__loc_odd_scrapyard_crusher_bay_scene__

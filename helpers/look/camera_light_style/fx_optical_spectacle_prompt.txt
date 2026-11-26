@@ -1,0 +1,3 @@
+__fx_pair_optical_spectacle_2_subject__ The scene shows two mirrors facing each other reproducing a person into an endless tunnel of reflections. The effect is __fx_pair_optical_spectacle_2_strength__.
+__fx_pair_optical_spectacle_4_subject__ The scene shows a room where two people appear to be different sizes, with chequered floor lines bending. The effect is __fx_pair_optical_spectacle_4_strength__.
+__fx_pair_optical_spectacle_8_subject__ The scene shows a heap of scrap whose shadow on the wall forms a perfect portrait. The effect is __fx_pair_optical_spectacle_8_strength__.

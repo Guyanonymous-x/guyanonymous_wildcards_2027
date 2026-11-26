@@ -1,0 +1,1 @@
+__loc_health_triage_desk_scene__ __loc_health_triage_desk_time__.

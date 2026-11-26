@@ -1,0 +1,4 @@
+Morning, boots on, washing taken out
+Evening, standing on the step with a drink, kitchen lit behind
+Night, the light on for someone coming back
+__loc_time_of_day__

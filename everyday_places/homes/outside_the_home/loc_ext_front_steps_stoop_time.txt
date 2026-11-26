@@ -1,0 +1,4 @@
+Morning, commuters descending, post delivered
+Afternoon, sitting out
+Evening, a gathering place in warm weather, the stoop light on
+__loc_time_of_day__

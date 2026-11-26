@@ -1,0 +1,5 @@
+Morning, bed unmade, kettle on
+Day, bed made and used as a sofa, laptop on the table
+Evening, curtain drawn, lamp on, cooktop in use
+Night, the same space reconfigured for sleep
+__loc_time_of_day__

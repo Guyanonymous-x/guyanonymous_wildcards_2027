@@ -1,0 +1,3 @@
+The windowless room looks the same at every hour
+Use state matters instead, empty and cold, or lit with a game in progress
+__loc_time_of_day__

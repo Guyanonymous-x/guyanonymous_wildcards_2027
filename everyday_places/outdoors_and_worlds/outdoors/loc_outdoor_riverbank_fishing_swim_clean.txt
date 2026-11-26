@@ -1,0 +1,1 @@
+The location is a riverbank fishing swim. Its materials are __loc_outdoor_riverbank_fishing_swim_materials__. __loc_outdoor_riverbank_fishing_swim_light__. __loc_outdoor_riverbank_fishing_swim_signature__.

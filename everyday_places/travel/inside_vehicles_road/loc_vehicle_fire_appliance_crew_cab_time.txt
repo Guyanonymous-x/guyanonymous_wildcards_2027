@@ -1,0 +1,5 @@
+On station, cab empty, doors open, boots on the bay floor beside it
+A turnout, four people in, harnesses on, BA donned, under a minute
+En route, intercom, beacons, nobody speaking much
+Back on station, kit restowed, the cab wiped, the boots back on the floor
+__loc_time_of_day__

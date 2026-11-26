@@ -1,0 +1,2 @@
+a small card beside one display reading "__name_year__"
+a wall sign beside a doorway reading "Gallery __name_number_small__"

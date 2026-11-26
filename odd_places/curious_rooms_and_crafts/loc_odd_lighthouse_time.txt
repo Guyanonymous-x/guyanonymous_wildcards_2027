@@ -1,0 +1,3 @@
+The lamp lit at dusk and extinguished at dawn, with the day spent on maintenance
+The two states could not be more different
+__loc_time_of_day__

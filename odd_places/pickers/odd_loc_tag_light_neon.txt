@@ -1,0 +1,5 @@
+__loc_odd_radio_mast_maintenance_platform_scene__
+__loc_odd_dry_dock_scene__
+__loc_odd_neon_sign_bender_s_bench_scene__
+__loc_odd_guard_tower_scene__
+__loc_odd_border_checkpoint_hut_scene__

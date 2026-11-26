@@ -1,0 +1,3 @@
+a box of tissues
+a candle that may be lit
+a card with the person's name, "__name_person__"

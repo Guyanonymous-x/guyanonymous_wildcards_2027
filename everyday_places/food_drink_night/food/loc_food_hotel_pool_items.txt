@@ -1,0 +1,8 @@
+pool towels
+flip-flops
+sunscreen
+goggles
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
+drinks
+life ring
+skimmer net

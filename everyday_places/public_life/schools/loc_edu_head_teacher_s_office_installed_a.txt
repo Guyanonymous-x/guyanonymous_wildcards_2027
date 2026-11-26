@@ -1,0 +1,2 @@
+a room whose furniture arrangement is its argument
+a direct internal door to the school office; a lockable drawer and a safe

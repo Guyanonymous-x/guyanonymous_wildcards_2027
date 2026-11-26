@@ -1,0 +1,1 @@
+__loc_food_restaurant_kitchen_clean__ __loc_food_restaurant_kitchen_region_look__. The loose items include __loc_food_restaurant_kitchen_items__.

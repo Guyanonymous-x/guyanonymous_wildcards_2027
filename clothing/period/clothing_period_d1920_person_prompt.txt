@@ -1,0 +1,9 @@
+The picture contains one person, Hiba. Hiba is __f_create_random_woman_short_named__ Hiba wears __clothing_period_d1920_prompt__.
+The picture contains one person, Hiba. Hiba is __f_create_random_woman_short_named__ Hiba wears __clothing_period_d1920_mix_prompt__.
+The picture contains one person, Hiba. Hiba is __f_create_random_woman_short_named__ Hiba wears __clothing_period_d1920_garment__, with __clothing_period_d1920_head__ on her head and __clothing_period_d1920_foot__ on her feet, and __clothing_period_d1920_jewel__. Hiba carries __clothing_period_d1920_bag__. Hiba's clothes are in the fashion of the 1920s.
+The picture contains one person, Jianguo. Jianguo is __m_create_random_man_short_named__ Jianguo wears __clothing_period_d1920_prompt__.
+The picture contains one person, Jianguo. Jianguo is __m_create_random_man_short_named__ Jianguo wears __clothing_period_d1920_mix_prompt__.
+The picture contains one person, Jianguo. Jianguo is __m_create_random_man_short_named__ Jianguo wears __clothing_period_d1920_garment__, with __clothing_period_d1920_head__ on his head and __clothing_period_d1920_foot__ on his feet, and __clothing_period_d1920_jewel__. Jianguo carries __clothing_period_d1920_bag__. Jianguo's clothes are in the fashion of the 1920s.
+The picture contains one person, Kamon. Kamon is __any_create_random_person_short_named__ Kamon wears __clothing_period_d1920_prompt__.
+The picture contains one person, Kamon. Kamon is __any_create_random_person_short_named__ Kamon wears __clothing_period_d1920_mix_prompt__.
+The picture contains one person, Kamon. Kamon is __any_create_random_person_short_named__ Kamon wears __clothing_period_d1920_garment__, with __clothing_period_d1920_head__ on Kamon's head and __clothing_period_d1920_foot__ on Kamon's feet, and __clothing_period_d1920_jewel__. Kamon carries __clothing_period_d1920_bag__. Kamon's clothes are in the fashion of the 1920s.

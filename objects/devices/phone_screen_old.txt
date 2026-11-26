@@ -1,0 +1,6 @@
+a green monochrome screen with the line "CALLING..." and the number "555 0142"
+a small grey screen with the lines "MENU" and "MESSAGES"
+a pale screen with the line "SIGNAL" above a row of bars
+a pixel screen with the lines "NEW MESSAGE" and "FROM HOME"
+a monochrome screen with the clock "10:15" and the line "SNAKE" under a small picture
+a pale screen with the lines "SELECT" and "BACK" at the bottom

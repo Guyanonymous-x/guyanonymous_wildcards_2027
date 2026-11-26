@@ -1,0 +1,3 @@
+a man of __demonym_tone__, __m_age30_34_age_years__. He has __age30_34_eye_color__ and __age30_34_hair_color__. __m_age30_34_aging_summary_named__
+a man, __m_age30_34_age_years__, from __country_tone__, __age30_34_eye_color__ and __age30_34_hair_color__. __m_age30_34_aging_summary_named__
+a man, __m_age30_34_age_years__, who holds __demonym_tone__, __age30_34_hair_color__ and __age30_34_eye_color__. __m_age30_34_aging_summary_named__

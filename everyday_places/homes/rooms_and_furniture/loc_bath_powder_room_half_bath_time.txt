@@ -1,0 +1,3 @@
+Little
+The room exists for visitors and is tidied before they arrive, which is its whole social function
+__loc_time_of_day__

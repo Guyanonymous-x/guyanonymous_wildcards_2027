@@ -1,0 +1,3 @@
+__loc_health_medical_records_store_scene__
+__loc_health_care_home_lounge_scene__
+__loc_health_ambulance_station_scene__

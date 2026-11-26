@@ -1,0 +1,1 @@
+The location is a locker room, staff. Its materials are __loc_work_locker_room_staff_materials__. __loc_work_locker_room_staff_light__. __loc_work_locker_room_staff_signature__.

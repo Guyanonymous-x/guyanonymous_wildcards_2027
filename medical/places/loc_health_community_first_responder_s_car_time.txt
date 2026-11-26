@@ -1,0 +1,5 @@
+On standby, parked at home, kit in, nothing happening
+Activated, the car moving and a phone navigating
+At a scene, parked on a verge or a driveway with the doors open and the dome light on
+After, the kit restocked at a kitchen table and put back in the boot
+__loc_time_of_day__

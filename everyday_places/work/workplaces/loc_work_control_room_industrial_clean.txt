@@ -1,0 +1,1 @@
+The location is a control room, industrial. Its materials are __loc_work_control_room_industrial_materials__. __loc_work_control_room_industrial_light__. __loc_work_control_room_industrial_signature__.

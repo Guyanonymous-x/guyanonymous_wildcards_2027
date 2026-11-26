@@ -1,0 +1,3 @@
+a thermometer logging chart
+freezer gloves
+labels reading "__loc_text_kitchen__" going brittle

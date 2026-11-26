@@ -1,0 +1,9 @@
+The picture contains two people, Marta and Tariq. Marta is __adult_w_short_named__ Tariq is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_wm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Marta and Tariq. Marta is __adult_w_short_named__ Tariq is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_wm_long_pose__ __adult_kama_set__.
+The picture contains two people, Marta and Tariq. Marta is __adult_w_short_named__ Tariq is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_wm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Nikolai and Kofi. Nikolai is __adult_m_short_named__ Kofi is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_mm_medium_pose__ __adult_kama_set__.
+The picture contains two people, Nikolai and Kofi. Nikolai is __adult_m_short_named__ Kofi is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_mm_long_pose__ __adult_kama_set__.
+The picture contains two people, Nikolai and Kofi. Nikolai is __adult_m_short_named__ Kofi is __adult_m_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_mm_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.
+The picture contains two people, Laila and Noor. Laila is __adult_w_short_named__ Noor is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_ww_medium_pose__ __adult_kama_set__.
+The picture contains two people, Laila and Noor. Laila is __adult_w_short_named__ Noor is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_ww_long_pose__ __adult_kama_set__.
+The picture contains two people, Laila and Noor. Laila is __adult_w_short_named__ Noor is __adult_w_short_named__ __adult_kama_underwear__. __adult_kama_samdamsha_ww_medium_pose__ __adult_kama_set__. __adult_kama_wrong__.

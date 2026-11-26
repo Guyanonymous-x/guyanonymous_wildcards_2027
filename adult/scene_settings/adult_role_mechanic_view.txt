@@ -1,0 +1,3 @@
+Eye-level view, a 35mm lens.
+Low view from the floor by the car, a 24mm lens.
+Slightly high view from the workbench, a 28mm lens.

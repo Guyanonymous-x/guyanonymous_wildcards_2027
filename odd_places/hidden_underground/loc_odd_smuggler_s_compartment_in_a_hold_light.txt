@@ -1,0 +1,2 @@
+A torch beam only
+The hold itself is dim

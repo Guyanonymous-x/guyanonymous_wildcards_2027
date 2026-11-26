@@ -1,0 +1,5 @@
+Morning on one wall
+A brief floor-level appearance at midday
+The top of the opposite wall in the evening
+The furniture follows it
+__loc_time_of_day__

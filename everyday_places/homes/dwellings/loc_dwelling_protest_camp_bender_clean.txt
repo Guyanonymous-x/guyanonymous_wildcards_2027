@@ -1,0 +1,1 @@
+The location is a protest camp bender. Its materials are __loc_dwelling_protest_camp_bender_materials__. __loc_dwelling_protest_camp_bender_light__. __loc_dwelling_protest_camp_bender_signature__.

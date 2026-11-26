@@ -1,0 +1,8 @@
+Boarding, with the door hooked open
+The climb, with the seatbelt sign reading "__loc_text_notice__" making it unavailable and a queue forming anyway
+The service
+The hour after the meal
+The night, with a dim vestibule and one person waiting
+The descent, when it is locked
+The turnaround service, which is somebody's whole job
+__loc_time_of_day__

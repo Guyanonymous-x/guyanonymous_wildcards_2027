@@ -1,0 +1,3 @@
+__loc_vehicle_ambulance_saloon_scene__
+__loc_vehicle_air_ambulance_cabin_scene__
+__loc_vehicle_mobile_dental_and_screening_unit_scene__

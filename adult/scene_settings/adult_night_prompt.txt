@@ -1,0 +1,6 @@
+__adult_l1_night_prompt__
+__adult_l2_night_prompt__
+__adult_l3_night_prompt__
+__adult_l4_night_prompt__
+__adult_l5_night_prompt__
+__adult_l6_night_prompt__

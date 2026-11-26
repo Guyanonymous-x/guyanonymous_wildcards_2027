@@ -1,0 +1,1 @@
+The location is a courier van with shelving. Its materials are __loc_vehicle_courier_van_with_shelving_materials__. __loc_vehicle_courier_van_with_shelving_light__. __loc_vehicle_courier_van_with_shelving_signature__.

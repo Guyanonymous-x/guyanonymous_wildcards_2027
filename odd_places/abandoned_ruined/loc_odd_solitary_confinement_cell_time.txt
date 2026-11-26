@@ -1,0 +1,2 @@
+The light is controlled from outside and often left on
+__loc_time_of_day__

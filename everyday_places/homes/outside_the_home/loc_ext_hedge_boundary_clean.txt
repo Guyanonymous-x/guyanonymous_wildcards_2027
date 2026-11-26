@@ -1,0 +1,1 @@
+The location is a hedge boundary. Its materials are __loc_ext_hedge_boundary_materials__. __loc_ext_hedge_boundary_light__. __loc_ext_hedge_boundary_signature__.

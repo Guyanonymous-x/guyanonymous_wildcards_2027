@@ -1,0 +1,1 @@
+The location is a converted ambulance. Its materials are __loc_vehicle_converted_ambulance_materials__. __loc_vehicle_converted_ambulance_light__. __loc_vehicle_converted_ambulance_signature__.
