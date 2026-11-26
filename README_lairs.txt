@@ -29,14 +29,15 @@ Type a list's name between double underscores in your prompt, for example __loc_
 
 Install
 -------
-1. Install and switch on the Dynamic Prompts extension (see below). It is required.
+1. Install and switch on a wildcard extension, for example Dynamic Prompts (see below). It is not required, but it makes things easier.
 2. Find the Dynamic Prompts wildcards folder: extensions\sd-dynamic-prompts\wildcards\ inside your Forge or A1111 folder, or the folder set in Dynamic Prompts' settings.
 3. Unzip this zip into that wildcards folder, together with the three core zips (People, Clothing, Helpers) and any add-ons you want, all into the same folder. Each zip makes its own folder (for example lairs\); keep its folders as they are.
 4. Restart the UI so Dynamic Prompts finds the new lists.
 This README file sits at the top of the zip, so it can show in Dynamic Prompts' list of wildcards as __README_lairs__. That entry is harmless; ignore it.
 
-Dynamic Prompts is required
----------------------------
+Dynamic Prompts is not required, but it makes things easier
+-----------------------------------------------------------
+So does Guyanonymous' Prompt Studio Extension, soon at https://github.com/Guyanonymous-x/guyanonymous_prompt_studio_sdwebui_extension. Both are examples of extensions that can be used with this wildcard project.
 Tested with sd-dynamic-prompts v2.17.1 in Forge Neo.
 The other tested way to use these lists: Guyanonymous' Prompt Studio v3.4 (https://github.com/Guyanonymous-x/guyanonymous_prompt_studio). In it, bare names find their lists in any subfolder and the names inside picked lines are filled.
 To switch Dynamic Prompts on: Extensions tab, Installed, tick sd-dynamic-prompts, then Apply and restart UI.
@@ -46,8 +47,8 @@ Without it:
 - With no wildcard extension at all, the __name__ text goes straight into the image prompt.
 Switch off any other wildcard extension while you use these lists.
 
-Why it is needed
-----------------
+Why an extension helps
+----------------------
 The lists are plain text files; your image app does not read them by itself. A name such as __f_create_random_woman_short__ only calls a list. The add-on swaps the name for a random line from that list, and because most lines call more lists, it must keep filling those in until a whole prompt is built.
 
 You type:  __f_create_random_woman_short__

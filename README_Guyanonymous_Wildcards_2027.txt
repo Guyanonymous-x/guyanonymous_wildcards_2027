@@ -122,15 +122,16 @@ Animals and Nature (add-on): 1,143 lists. Guyanonymous_Wildcards_2027_Animals_v1
 
 Install, step by step
 ---------------------
-1. Install and switch on the Dynamic Prompts extension (see below). It is required.
+1. Install and switch on a wildcard extension, for example Dynamic Prompts (see below). It is not required, but it makes things easier.
 2. Find the Dynamic Prompts wildcards folder: extensions\sd-dynamic-prompts\wildcards\ inside your Forge or A1111 folder, or the folder set in Dynamic Prompts' settings.
 3. Unzip the three core zips (People, Clothing, Helpers) into that wildcards folder, then every add-on you want, all into the same folder. Each zip makes its own folder (people\, clothing\, helpers\, and so on); keep its folders as they are.
 4. Restart the UI so Dynamic Prompts finds the new lists.
 5. Type a name between double underscores in your prompt, for example __adorn_prompt__, and make a picture.
 Each zip's README_<module>.txt, and this guide, sit at the top of the zip, so they can show in Dynamic Prompts' list of wildcards as __README_people__ and so on. Those entries are harmless; ignore them.
 
-Dynamic Prompts is required
----------------------------
+Dynamic Prompts is not required, but it makes things easier
+-----------------------------------------------------------
+So does Guyanonymous' Prompt Studio Extension, soon at https://github.com/Guyanonymous-x/guyanonymous_prompt_studio_sdwebui_extension. Both are examples of extensions that can be used with this wildcard project.
 Tested with sd-dynamic-prompts v2.17.1 in Forge Neo.
 The other tested way to use these lists: Guyanonymous' Prompt Studio v3.4 (https://github.com/Guyanonymous-x/guyanonymous_prompt_studio). In it, bare names find their lists in any subfolder and the names inside picked lines are filled.
 To switch Dynamic Prompts on: Extensions tab, Installed, tick sd-dynamic-prompts, then Apply and restart UI.
@@ -140,8 +141,8 @@ Without it:
 - With no wildcard extension at all, the __name__ text goes straight into the image prompt.
 Switch off any other wildcard extension while you use these lists.
 
-Why it is needed
-----------------
+Why an extension helps
+----------------------
 The lists are plain text files; your image app does not read them by itself. A name such as __f_create_random_woman_short__ only calls a list. The add-on swaps the name for a random line from that list, and because most lines call more lists, it must keep filling those in until a whole prompt is built.
 
 You type:  __f_create_random_woman_short__
@@ -168,7 +169,7 @@ Works with
 
 Finding lists: the catalogs
 ---------------------------
-Each zip has a catalog_<module>.pdf at its top: every folder of the module, with its list count and page, then every list name in it, A to Z. Names in bold end in _prompt: each builds a whole prompt, a good place to start. The release folder also has catalog_all_modules.pdf: all 18 modules with their folders and list counts.
+Each zip has a catalog_<module>.pdf at its top: every folder of the module, with its list count and page, then every list name in it, A to Z. Names in bold end in _prompt: each builds a whole prompt, a good place to start. The release folder also has catalog_all_modules_v1.0.pdf, and the People zip has catalog_all_modules.pdf: all 18 modules with their folders and list counts. The release folder also has each module's catalog as catalog_<module>_v1.0.pdf.
 
 Lists that call other lists
 ---------------------------
